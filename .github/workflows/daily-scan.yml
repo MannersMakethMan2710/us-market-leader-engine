@@ -24,7 +24,8 @@ jobs:
       - name: Download verified scan engine
         run: |
           curl -fsSL "https://us-market-leader-board-kh.kihyung-lee2710.chatgpt.site/engine/scanner-engine.tar.gz" -o scanner-engine.tar.gz
-          echo "7698caafcb7e92ffeea377de4a280d301d99bcb2f26d31ee8e754692a7fbdabc  scanner-engine.tar.gz" | sha256sum -c -
+          curl -fsSL "https://us-market-leader-board-kh.kihyung-lee2710.chatgpt.site/engine/scanner-engine.sha256" -o scanner-engine.sha256
+sha256sum -c scanner-engine.sha256
           tar -xzf scanner-engine.tar.gz
       - name: Scan NYSE and Nasdaq
         run: node scanner/run.mjs --provider=free --output=data/scanner-data.json --concurrency=3
