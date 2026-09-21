@@ -20,15 +20,14 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: "24"
       - name: Download verified scan engine
         run: |
           curl -fsSL "https://us-market-leader-board-kh.kihyung-lee2710.chatgpt.site/engine/scanner-engine.tar.gz" -o scanner-engine.tar.gz
-          echo "36fa7923aedbb9bbbb01047bc9782af520c89696bbb279927cc4a58eacf7eaf3  scanner-engine.tar.gz" | sha256sum -c -
+          echo "7698caafcb7e92ffeea377de4a280d301d99bcb2f26d31ee8e754692a7fbdabc  scanner-engine.tar.gz" | sha256sum -c -
           tar -xzf scanner-engine.tar.gz
       - name: Scan NYSE and Nasdaq
-        env:
-          FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
+  run: node scanner/run.mjs --provider=free --output=data/scanner-data.json --concurrency=3
         run: node scanner/run.mjs --output=data/scanner-data.json --concurrency=4
       - name: Publish latest results
         run: |
