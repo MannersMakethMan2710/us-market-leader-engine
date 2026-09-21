@@ -27,8 +27,7 @@ jobs:
           echo "7698caafcb7e92ffeea377de4a280d301d99bcb2f26d31ee8e754692a7fbdabc  scanner-engine.tar.gz" | sha256sum -c -
           tar -xzf scanner-engine.tar.gz
       - name: Scan NYSE and Nasdaq
-  run: node scanner/run.mjs --provider=free --output=data/scanner-data.json --concurrency=3
-        run: node scanner/run.mjs --output=data/scanner-data.json --concurrency=4
+        run: node scanner/run.mjs --provider=free --output=data/scanner-data.json --concurrency=3
       - name: Publish latest results
         run: |
           git config user.name "leader-scan-bot"
