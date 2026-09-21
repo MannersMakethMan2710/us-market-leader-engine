@@ -1,0 +1,43 @@
+name: Daily US Market Leader Scan
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 22 * * 1-5"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-leader-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Download verified scan engine
+        run: |
+          curl -fsSL "https://us-market-leader-board-kh.kihyung-lee2710.chatgpt.site/engine/scanner-engine.tar.gz" -o scanner-engine.tar.gz
+          echo "36fa7923aedbb9bbbb01047bc9782af520c89696bbb279927cc4a58eacf7eaf3  scanner-engine.tar.gz" | sha256sum -c -
+          tar -xzf scanner-engine.tar.gz
+      - name: Scan NYSE and Nasdaq
+        env:
+          FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
+        run: node scanner/run.mjs --output=data/scanner-data.json --concurrency=4
+      - name: Publish latest results
+        run: |
+          git config user.name "leader-scan-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/scanner-data.json
+          if git diff --cached --quiet; then
+            echo "No data change"
+          else
+            git commit -m "Update leader scan data"
+            git push
+          fi
