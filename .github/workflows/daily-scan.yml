@@ -3,7 +3,7 @@ name: Daily US Market Leader Scan
 on:
   workflow_dispatch:
   schedule:
-    - cron: "50 21 * * 1-5"
+    - cron: "30 21 * * 1-5"
 
 permissions:
   contents: write
