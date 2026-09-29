@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "live",
-  "generatedAt": "2026-09-28T21:44:47.940Z",
+  "generatedAt": "2026-09-29T06:53:33.137Z",
   "asOf": "2026-09-28",
   "benchmark": "SPY",
   "universe": {
@@ -90,48 +90,48 @@
         "asOf": "2026-09-28"
       },
       {
-        "symbol": "SOXX",
-        "value": 560.79,
-        "daily": -2.08,
-        "weekly": 0.26,
-        "sma5": 567.61,
-        "sma10": 545.05,
-        "sma20": 529.21,
-        "sma40": 529.18,
+        "symbol": "SMH",
+        "value": 600.01,
+        "daily": -1.08,
+        "weekly": 0.67,
+        "sma5": 603.19,
+        "sma10": 583.33,
+        "sma20": 571.18,
+        "sma40": 570.13,
         "asOf": "2026-09-28"
       },
       {
         "symbol": "BTC",
-        "value": 83380,
-        "daily": -1.53,
-        "weekly": -1.19,
-        "sma5": 84131.63,
-        "sma10": 84019.26,
-        "sma20": 80676.71,
-        "sma40": 79555.59,
-        "asOf": "2026-09-28"
+        "value": 83932,
+        "daily": 0.96,
+        "weekly": -0.53,
+        "sma5": 84242.19,
+        "sma10": 84074.55,
+        "sma20": 80704.35,
+        "sma40": 79569.41,
+        "asOf": "2026-09-29"
       },
       {
         "symbol": "GOLD",
-        "value": 4148.5,
-        "daily": -4,
-        "weekly": -5.37,
-        "sma5": 4292.5,
-        "sma10": 4339.13,
-        "sma20": 4388.4,
-        "sma40": 4428.32,
-        "asOf": "2026-09-28"
+        "value": 4175.7,
+        "daily": 0.17,
+        "weekly": -4.59,
+        "sma5": 4256.34,
+        "sma10": 4325.41,
+        "sma20": 4374.11,
+        "sma40": 4430.95,
+        "asOf": "2026-09-29"
       },
       {
         "symbol": "WTI",
-        "value": 93.29,
-        "daily": 0.95,
-        "weekly": -2.6,
-        "sma5": 93.41,
-        "sma10": 97.33,
-        "sma20": 95.8,
-        "sma40": 89.05,
-        "asOf": "2026-09-28"
+        "value": 93.84,
+        "daily": 1.34,
+        "weekly": -0.79,
+        "sma5": 93.12,
+        "sma10": 96.06,
+        "sma20": 96.17,
+        "sma40": 89.37,
+        "asOf": "2026-09-29"
       },
       {
         "symbol": "VIX",
@@ -159,7 +159,7 @@
           {
             "date": "2026-09-28",
             "changePct": -1.07,
-            "volumeRatio": 1.37
+            "volumeRatio": 1.38
           }
         ],
         "window": 25,
@@ -286,7 +286,29 @@
         "daily": 0,
         "weekly": 6.93,
         "asOf": "2026-09-28",
-        "source": "EODData INDEX"
+        "source": "EODData INDEX",
+        "history": [
+          {
+            "date": "2026-09-22",
+            "value": 46.53
+          },
+          {
+            "date": "2026-09-23",
+            "value": 44.55
+          },
+          {
+            "date": "2026-09-24",
+            "value": 42.57
+          },
+          {
+            "date": "2026-09-25",
+            "value": 46.53
+          },
+          {
+            "date": "2026-09-28",
+            "value": 46.53
+          }
+        ]
       },
       {
         "symbol": "NDOH",
@@ -294,7 +316,29 @@
         "daily": -1.98,
         "weekly": -3.96,
         "asOf": "2026-09-28",
-        "source": "EODData INDEX"
+        "source": "EODData INDEX",
+        "history": [
+          {
+            "date": "2026-09-22",
+            "value": 46.53
+          },
+          {
+            "date": "2026-09-23",
+            "value": 45.54
+          },
+          {
+            "date": "2026-09-24",
+            "value": 42.57
+          },
+          {
+            "date": "2026-09-25",
+            "value": 44.55
+          },
+          {
+            "date": "2026-09-28",
+            "value": 42.57
+          }
+        ]
       },
       {
         "symbol": "NDTH",
@@ -302,7 +346,29 @@
         "daily": -2.97,
         "weekly": -0.99,
         "asOf": "2026-09-28",
-        "source": "EODData INDEX"
+        "source": "EODData INDEX",
+        "history": [
+          {
+            "date": "2026-09-22",
+            "value": 58.41
+          },
+          {
+            "date": "2026-09-23",
+            "value": 56.43
+          },
+          {
+            "date": "2026-09-24",
+            "value": 57.42
+          },
+          {
+            "date": "2026-09-25",
+            "value": 59.4
+          },
+          {
+            "date": "2026-09-28",
+            "value": 56.43
+          }
+        ]
       },
       {
         "symbol": "MMFI",
@@ -310,7 +376,29 @@
         "daily": -3.02,
         "weekly": -7.59,
         "asOf": "2026-09-28",
-        "source": "EODData INDEX"
+        "source": "EODData INDEX",
+        "history": [
+          {
+            "date": "2026-09-22",
+            "value": 35.99
+          },
+          {
+            "date": "2026-09-23",
+            "value": 30.45
+          },
+          {
+            "date": "2026-09-24",
+            "value": 29.15
+          },
+          {
+            "date": "2026-09-25",
+            "value": 30.23
+          },
+          {
+            "date": "2026-09-28",
+            "value": 27.21
+          }
+        ]
       },
       {
         "symbol": "MMOH",
@@ -318,7 +406,29 @@
         "daily": -2.61,
         "weekly": -7.21,
         "asOf": "2026-09-28",
-        "source": "EODData INDEX"
+        "source": "EODData INDEX",
+        "history": [
+          {
+            "date": "2026-09-22",
+            "value": 43.12
+          },
+          {
+            "date": "2026-09-23",
+            "value": 38.32
+          },
+          {
+            "date": "2026-09-24",
+            "value": 37.73
+          },
+          {
+            "date": "2026-09-25",
+            "value": 38.04
+          },
+          {
+            "date": "2026-09-28",
+            "value": 35.43
+          }
+        ]
       },
       {
         "symbol": "MMTH",
@@ -326,10 +436,87 @@
         "daily": -1.63,
         "weekly": -4.2,
         "asOf": "2026-09-28",
-        "source": "EODData INDEX"
+        "source": "EODData INDEX",
+        "history": [
+          {
+            "date": "2026-09-22",
+            "value": 48.92
+          },
+          {
+            "date": "2026-09-23",
+            "value": 46.06
+          },
+          {
+            "date": "2026-09-24",
+            "value": 45.43
+          },
+          {
+            "date": "2026-09-25",
+            "value": 45.78
+          },
+          {
+            "date": "2026-09-28",
+            "value": 44.15
+          }
+        ]
       }
     ],
-    "breadthSource": "EODData INDEX"
+    "breadthSource": "EODData INDEX",
+    "internals": {
+      "asOf": "2026-09-28",
+      "source": "NYSE+Nasdaq scan universe; Wikipedia S&P 500; Nasdaq-100; iShares IWM holdings; Yahoo adjusted OHLC",
+      "universe": {
+        "advancing": 634,
+        "declining": 1431,
+        "unchanged": 12,
+        "measured": 2077,
+        "highs": 23,
+        "lows": 68,
+        "highLowCoverage": 2001,
+        "total": 2077,
+        "advancingPct": 30.7,
+        "decliningPct": 69.3,
+        "highLowRatioPct": 25.27
+      },
+      "etfs": {
+        "SPY": {
+          "advancing": 164,
+          "declining": 334,
+          "unchanged": 4,
+          "measured": 502,
+          "highs": 0,
+          "lows": 0,
+          "highLowCoverage": 0,
+          "total": 502,
+          "coveragePct": 100,
+          "adr": 0.49
+        },
+        "QQQ": {
+          "advancing": 38,
+          "declining": 63,
+          "unchanged": 0,
+          "measured": 101,
+          "highs": 0,
+          "lows": 0,
+          "highLowCoverage": 0,
+          "total": 101,
+          "coveragePct": 100,
+          "adr": 0.6
+        },
+        "IWM": {
+          "advancing": 0,
+          "declining": 0,
+          "unchanged": 0,
+          "measured": 0,
+          "highs": 0,
+          "lows": 0,
+          "highLowCoverage": 0,
+          "total": 0,
+          "coveragePct": 0,
+          "adr": null
+        }
+      }
+    }
   },
   "trendStart": {
     "universeCount": 513,
@@ -358,8 +545,9 @@
         "momentum": 81.3,
         "trend": 100,
         "liquidity": 43,
-        "averageDollarVolume20": 341961418,
+        "averageDollarVolume20": 341962551,
         "highDistancePct": 4.06,
+        "sma10GapPct": 5.06,
         "sma20GapPct": 7.69,
         "sma50GapPct": 8.9,
         "sma200GapPct": 20.18,
@@ -408,8 +596,9 @@
         "momentum": 75.4,
         "trend": 85,
         "liquidity": 96,
-        "averageDollarVolume20": 3406346103,
+        "averageDollarVolume20": 3406847140,
         "highDistancePct": 22.67,
+        "sma10GapPct": 2.31,
         "sma20GapPct": 3.92,
         "sma50GapPct": 7.03,
         "sma200GapPct": 40.72,
@@ -458,8 +647,9 @@
         "momentum": 70.4,
         "trend": 85,
         "liquidity": 89,
-        "averageDollarVolume20": 1570153909,
+        "averageDollarVolume20": 1570362624,
         "highDistancePct": 37.41,
+        "sma10GapPct": -2.8,
         "sma20GapPct": 4.84,
         "sma50GapPct": 7.06,
         "sma200GapPct": 33.31,
@@ -478,7 +668,7 @@
         "diagonalAsOf": "2026-09-28",
         "diagonalDistancePct": -15.04,
         "diagonalLinePrice": 333.48,
-        "diagonalVolumeRatio": 1.7,
+        "diagonalVolumeRatio": 1.71,
         "diagonalAnchor1": {
           "date": "2026-06-02",
           "price": 427.989990234375
@@ -508,8 +698,9 @@
         "momentum": 55.5,
         "trend": 65,
         "liquidity": 86,
-        "averageDollarVolume20": 1334027612,
+        "averageDollarVolume20": 1334861061,
         "highDistancePct": 44.12,
+        "sma10GapPct": -0.35,
         "sma20GapPct": -1.17,
         "sma50GapPct": -0.63,
         "sma200GapPct": 1.92,
@@ -528,7 +719,7 @@
         "diagonalAsOf": "2026-09-28",
         "diagonalDistancePct": -4.56,
         "diagonalLinePrice": 158.83,
-        "diagonalVolumeRatio": 0.83,
+        "diagonalVolumeRatio": 0.84,
         "diagonalAnchor1": {
           "date": "2026-05-26",
           "price": 199.24884772450218
@@ -558,8 +749,9 @@
         "momentum": 93.7,
         "trend": 100,
         "liquidity": 99,
-        "averageDollarVolume20": 11984548796,
+        "averageDollarVolume20": 11989536183,
         "highDistancePct": 4.87,
+        "sma10GapPct": 4.03,
         "sma20GapPct": 13.57,
         "sma50GapPct": 19.91,
         "sma200GapPct": 65.77,
@@ -602,16 +794,17 @@
         "momentum": 87.4,
         "trend": 100,
         "liquidity": 24,
-        "averageDollarVolume20": 232710584,
+        "averageDollarVolume20": 232711847,
         "highDistancePct": 5.72,
+        "sma10GapPct": -1.14,
         "sma20GapPct": 3.73,
         "sma50GapPct": 6.76,
         "sma200GapPct": 27.58,
         "sma50SlopePct": 1.02,
-        "atr": 13.72,
-        "atrPct": 3.15,
-        "atrMultiple20": 1.18,
-        "atrMultiple50": 2.15,
+        "atr": 13.95,
+        "atrPct": 3.2,
+        "atrMultiple20": 1.16,
+        "atrMultiple50": 2.11,
         "rs4wPct": 10.75,
         "rs13wPct": 7.95,
         "rs26wPct": 28.03,
@@ -646,8 +839,9 @@
         "momentum": 75.5,
         "trend": 85,
         "liquidity": 99,
-        "averageDollarVolume20": 11525734752,
+        "averageDollarVolume20": 11534454658,
         "highDistancePct": 18.49,
+        "sma10GapPct": 0.87,
         "sma20GapPct": 9.6,
         "sma50GapPct": 16.65,
         "sma200GapPct": 45.8,
@@ -690,8 +884,9 @@
         "momentum": 65.9,
         "trend": 60,
         "liquidity": 83,
-        "averageDollarVolume20": 1197582201,
+        "averageDollarVolume20": 1197723265,
         "highDistancePct": 9.55,
+        "sma10GapPct": 1.36,
         "sma20GapPct": 1.89,
         "sma50GapPct": 2.17,
         "sma200GapPct": 2.02,
@@ -740,16 +935,17 @@
         "momentum": 86.8,
         "trend": 100,
         "liquidity": 21,
-        "averageDollarVolume20": 219492915,
+        "averageDollarVolume20": 219493441,
         "highDistancePct": 2.62,
+        "sma10GapPct": 1.96,
         "sma20GapPct": 5.67,
         "sma50GapPct": 7.1,
         "sma200GapPct": 25.2,
         "sma50SlopePct": 0.36,
-        "atr": 8.54,
-        "atrPct": 2.27,
-        "atrMultiple20": 2.5,
-        "atrMultiple50": 3.12,
+        "atr": 8.67,
+        "atrPct": 2.31,
+        "atrMultiple20": 2.46,
+        "atrMultiple50": 3.07,
         "rs4wPct": 11.58,
         "rs13wPct": 3.77,
         "rs26wPct": 32.72,
@@ -784,8 +980,9 @@
         "momentum": 87.5,
         "trend": 100,
         "liquidity": 99,
-        "averageDollarVolume20": 14038056025,
+        "averageDollarVolume20": 14043363549,
         "highDistancePct": 2.01,
+        "sma10GapPct": 0.47,
         "sma20GapPct": 2.44,
         "sma50GapPct": 5.14,
         "sma200GapPct": 17.62,
@@ -834,8 +1031,9 @@
         "momentum": 90.4,
         "trend": 100,
         "liquidity": 73,
-        "averageDollarVolume20": 737306996,
+        "averageDollarVolume20": 737311484,
         "highDistancePct": 2.78,
+        "sma10GapPct": 1.15,
         "sma20GapPct": 5.49,
         "sma50GapPct": 8.94,
         "sma200GapPct": 51.17,
@@ -878,8 +1076,9 @@
         "momentum": 86,
         "trend": 75,
         "liquidity": 99,
-        "averageDollarVolume20": 16051179145,
+        "averageDollarVolume20": 16056956296,
         "highDistancePct": 8.23,
+        "sma10GapPct": 0,
         "sma20GapPct": 7.23,
         "sma50GapPct": 16.04,
         "sma200GapPct": 14.37,
@@ -922,8 +1121,9 @@
         "momentum": 72.2,
         "trend": 80,
         "liquidity": 40,
-        "averageDollarVolume20": 326234289,
+        "averageDollarVolume20": 326271002,
         "highDistancePct": 9.43,
+        "sma10GapPct": -3.87,
         "sma20GapPct": -4.73,
         "sma50GapPct": -2.21,
         "sma200GapPct": 9.71,
@@ -966,8 +1166,9 @@
         "momentum": 73.4,
         "trend": 85,
         "liquidity": 95,
-        "averageDollarVolume20": 2734969714,
+        "averageDollarVolume20": 2735504919,
         "highDistancePct": 27.21,
+        "sma10GapPct": -1.97,
         "sma20GapPct": 2.91,
         "sma50GapPct": 10.3,
         "sma200GapPct": 11.78,
@@ -1010,8 +1211,9 @@
         "momentum": 88.8,
         "trend": 100,
         "liquidity": 44,
-        "averageDollarVolume20": 345739667,
+        "averageDollarVolume20": 345740575,
         "highDistancePct": 6.86,
+        "sma10GapPct": -2.42,
         "sma20GapPct": 0.41,
         "sma50GapPct": 3.77,
         "sma200GapPct": 26.58,
@@ -1054,14 +1256,15 @@
         "momentum": 82.2,
         "trend": 80,
         "liquidity": 14,
-        "averageDollarVolume20": 181421292,
+        "averageDollarVolume20": 181421287,
         "highDistancePct": 5.4,
+        "sma10GapPct": -0.84,
         "sma20GapPct": -0.17,
         "sma50GapPct": 1.52,
         "sma200GapPct": 14.86,
         "sma50SlopePct": 1.76,
         "atr": 2.6,
-        "atrPct": 2.26,
+        "atrPct": 2.27,
         "atrMultiple20": -0.08,
         "atrMultiple50": 0.67,
         "rs4wPct": 3.93,
@@ -1099,13 +1302,14 @@
         "asOf": "2026-09-28",
         "price": 116.46,
         "dayPct": -2.46,
-        "leaderScore": 66.5,
-        "modelRs": 75.1,
-        "momentum": 87.6,
+        "leaderScore": 66.4,
+        "modelRs": 74.8,
+        "momentum": 87.5,
         "trend": 100,
         "liquidity": 94,
-        "averageDollarVolume20": 2652581347,
+        "averageDollarVolume20": 2653085539,
         "highDistancePct": 24.31,
+        "sma10GapPct": -0.58,
         "sma20GapPct": 0.99,
         "sma50GapPct": 11.36,
         "sma200GapPct": 23.2,
@@ -1148,14 +1352,15 @@
         "momentum": 79.7,
         "trend": 80,
         "liquidity": 50,
-        "averageDollarVolume20": 392743882,
+        "averageDollarVolume20": 394963273,
         "highDistancePct": 9.15,
+        "sma10GapPct": 1.33,
         "sma20GapPct": -0.77,
         "sma50GapPct": 0.8,
         "sma200GapPct": 34.33,
         "sma50SlopePct": 0.43,
-        "atr": 14.04,
-        "atrPct": 3.6,
+        "atr": 14.05,
+        "atrPct": 3.61,
         "atrMultiple20": -0.21,
         "atrMultiple50": 0.22,
         "rs4wPct": 1.3,
@@ -1168,7 +1373,7 @@
         "diagonalAsOf": "2026-09-28",
         "diagonalDistancePct": -6.55,
         "diagonalLinePrice": 416.92,
-        "diagonalVolumeRatio": 1.42,
+        "diagonalVolumeRatio": 1.53,
         "diagonalAnchor1": {
           "date": "2026-07-16",
           "price": 428.8800048828125
@@ -1198,8 +1403,9 @@
         "momentum": 47.2,
         "trend": 45,
         "liquidity": 45,
-        "averageDollarVolume20": 346812744,
+        "averageDollarVolume20": 346814399,
         "highDistancePct": 11.74,
+        "sma10GapPct": -2.96,
         "sma20GapPct": -3.91,
         "sma50GapPct": -4.42,
         "sma200GapPct": 7.87,
@@ -1248,8 +1454,9 @@
         "momentum": 69.6,
         "trend": 85,
         "liquidity": 100,
-        "averageDollarVolume20": 17761460548,
+        "averageDollarVolume20": 17764616886,
         "highDistancePct": 27.25,
+        "sma10GapPct": -0.25,
         "sma20GapPct": 2.25,
         "sma50GapPct": 12.4,
         "sma200GapPct": 53.57,
@@ -1298,8 +1505,9 @@
         "momentum": 72.9,
         "trend": 85,
         "liquidity": 97,
-        "averageDollarVolume20": 4433540406,
+        "averageDollarVolume20": 4434222650,
         "highDistancePct": 25.17,
+        "sma10GapPct": -3.31,
         "sma20GapPct": 1.45,
         "sma50GapPct": 13.98,
         "sma200GapPct": 29.03,
@@ -1348,8 +1556,9 @@
         "momentum": 71.8,
         "trend": 75,
         "liquidity": 90,
-        "averageDollarVolume20": 1836278870,
+        "averageDollarVolume20": 1836604906,
         "highDistancePct": 52.31,
+        "sma10GapPct": 1.41,
         "sma20GapPct": 3.64,
         "sma50GapPct": 12.07,
         "sma200GapPct": 2.58,
@@ -1392,15 +1601,16 @@
         "momentum": 63.8,
         "trend": 65,
         "liquidity": 95,
-        "averageDollarVolume20": 2752066838,
+        "averageDollarVolume20": 2753391244,
         "highDistancePct": 28.21,
+        "sma10GapPct": 6.49,
         "sma20GapPct": 5.95,
         "sma50GapPct": 3.34,
         "sma200GapPct": 15.95,
         "sma50SlopePct": -8.02,
         "atr": 14.45,
         "atrPct": 4.59,
-        "atrMultiple20": 1.3,
+        "atrMultiple20": 1.29,
         "atrMultiple50": 0.73,
         "rs4wPct": 4.52,
         "rs13wPct": -25.05,
@@ -1412,7 +1622,7 @@
         "diagonalAsOf": "2026-09-28",
         "diagonalDistancePct": -1.7,
         "diagonalLinePrice": 319.9,
-        "diagonalVolumeRatio": 0.95,
+        "diagonalVolumeRatio": 0.96,
         "diagonalAnchor1": {
           "date": "2026-05-27",
           "price": 332.7418658914837
@@ -1443,10 +1653,12 @@
       "liquidity": 67,
       "highProximity": 81,
       "dailyStrength": 51,
-      "averageDollarVolume20": 2459471807,
+      "averageDollarVolume20": 2464840431,
       "highDistancePct": 2.66,
       "atr": 12.69,
       "atrPct": 6.43,
+      "sma10": 173.01,
+      "sma10GapPct": 14.03,
       "sma20GapPct": 24.34,
       "sma50GapPct": 74.86,
       "sma200GapPct": 203.04,
@@ -1481,16 +1693,18 @@
       "liquidity": 13,
       "highProximity": 89,
       "dailyStrength": 95,
-      "averageDollarVolume20": 210999730,
-      "highDistancePct": 1.55,
+      "averageDollarVolume20": 211005328,
+      "highDistancePct": 1.61,
       "atr": 5.02,
-      "atrPct": 5.67,
+      "atrPct": 5.68,
+      "sma10": 79.44,
+      "sma10GapPct": 11.41,
       "sma20GapPct": 22.72,
       "sma50GapPct": 44.46,
       "sma200GapPct": 166.08,
-      "atrMultiple20": 4.01,
-      "atrMultiple50": 7.84,
-      "atrMultiple200": 29.28,
+      "atrMultiple20": 4,
+      "atrMultiple50": 7.83,
+      "atrMultiple200": 29.25,
       "rs4wPct": 44.15,
       "rs13wPct": 136.97,
       "rs26wPct": 293.82,
@@ -1519,10 +1733,12 @@
       "liquidity": 71,
       "highProximity": 88,
       "dailyStrength": 94,
-      "averageDollarVolume20": 2795673242,
+      "averageDollarVolume20": 2795909330,
       "highDistancePct": 1.75,
       "atr": 12.26,
       "atrPct": 4.73,
+      "sma10": 250.02,
+      "sma10GapPct": 3.69,
       "sma20GapPct": 11.59,
       "sma50GapPct": 21.28,
       "sma200GapPct": 71.96,
@@ -1542,7 +1758,7 @@
       "diagonalVolumeRatio": null,
       "diagonalAnchor1": null,
       "diagonalAnchor2": null,
-      "previousWatchlistRank": 10
+      "previousWatchlistRank": 3
     },
     {
       "watchlistRank": 4,
@@ -1557,16 +1773,18 @@
       "liquidity": 46,
       "highProximity": 85,
       "dailyStrength": 76,
-      "averageDollarVolume20": 955313476,
+      "averageDollarVolume20": 955395222,
       "highDistancePct": 2.18,
-      "atr": 11.53,
-      "atrPct": 4.24,
+      "atr": 11.57,
+      "atrPct": 4.26,
+      "sma10": 249.35,
+      "sma10GapPct": 9.04,
       "sma20GapPct": 18.23,
       "sma50GapPct": 27.95,
       "sma200GapPct": 69.95,
-      "atrMultiple20": 4.3,
-      "atrMultiple50": 6.59,
-      "atrMultiple200": 16.5,
+      "atrMultiple20": 4.28,
+      "atrMultiple50": 6.57,
+      "atrMultiple200": 16.43,
       "rs4wPct": 26.42,
       "rs13wPct": 46.43,
       "rs26wPct": 87.07,
@@ -1580,7 +1798,7 @@
       "diagonalVolumeRatio": null,
       "diagonalAnchor1": null,
       "diagonalAnchor2": null,
-      "previousWatchlistRank": 8
+      "previousWatchlistRank": 4
     },
     {
       "watchlistRank": 5,
@@ -1595,10 +1813,12 @@
       "liquidity": 41,
       "highProximity": 66,
       "dailyStrength": 97,
-      "averageDollarVolume20": 761629363,
+      "averageDollarVolume20": 761645133,
       "highDistancePct": 4.86,
       "atr": 10.13,
       "atrPct": 5.01,
+      "sma10": 194.83,
+      "sma10GapPct": 3.77,
       "sma20GapPct": 10.59,
       "sma50GapPct": 26.96,
       "sma200GapPct": 84.24,
@@ -1618,7 +1838,7 @@
       "diagonalVolumeRatio": null,
       "diagonalAnchor1": null,
       "diagonalAnchor2": null,
-      "previousWatchlistRank": 18
+      "previousWatchlistRank": 5
     },
     {
       "watchlistRank": 6,
@@ -1633,10 +1853,12 @@
       "liquidity": 37,
       "highProximity": 91,
       "dailyStrength": 62,
-      "averageDollarVolume20": 540257674,
+      "averageDollarVolume20": 540520198,
       "highDistancePct": 1.34,
       "atr": 12.99,
       "atrPct": 3.15,
+      "sma10": 381.73,
+      "sma10GapPct": 7.87,
       "sma20GapPct": 16.12,
       "sma50GapPct": 28.96,
       "sma200GapPct": 67.77,
@@ -1671,10 +1893,12 @@
       "liquidity": 27,
       "highProximity": 69,
       "dailyStrength": 33,
-      "averageDollarVolume20": 306359554,
+      "averageDollarVolume20": 306360038,
       "highDistancePct": 4.4,
       "atr": 11.14,
-      "atrPct": 6.2,
+      "atrPct": 6.21,
+      "sma10": 163.91,
+      "sma10GapPct": 9.57,
       "sma20GapPct": 22.3,
       "sma50GapPct": 40.32,
       "sma200GapPct": 142.99,
@@ -1694,7 +1918,7 @@
       "diagonalVolumeRatio": null,
       "diagonalAnchor1": null,
       "diagonalAnchor2": null,
-      "previousWatchlistRank": 5
+      "previousWatchlistRank": 7
     },
     {
       "watchlistRank": 8,
@@ -1709,10 +1933,12 @@
       "liquidity": 92,
       "highProximity": 66,
       "dailyStrength": 14,
-      "averageDollarVolume20": 11984548796,
+      "averageDollarVolume20": 11989536183,
       "highDistancePct": 4.87,
       "atr": 25.42,
       "atrPct": 4.18,
+      "sma10": 584.33,
+      "sma10GapPct": 4.03,
       "sma20GapPct": 13.57,
       "sma50GapPct": 19.91,
       "sma200GapPct": 65.77,
@@ -1732,7 +1958,7 @@
       "diagonalVolumeRatio": null,
       "diagonalAnchor1": null,
       "diagonalAnchor2": null,
-      "previousWatchlistRank": 4
+      "previousWatchlistRank": 8
     },
     {
       "watchlistRank": 9,
@@ -1747,10 +1973,12 @@
       "liquidity": 60,
       "highProximity": 68,
       "dailyStrength": 57,
-      "averageDollarVolume20": 1604100149,
+      "averageDollarVolume20": 1604169614,
       "highDistancePct": 4.6,
       "atr": 3.43,
-      "atrPct": 5.47,
+      "atrPct": 5.48,
+      "sma10": 60.83,
+      "sma10GapPct": 2.96,
       "sma20GapPct": 8.36,
       "sma50GapPct": 15.62,
       "sma200GapPct": 74.44,
@@ -1785,10 +2013,12 @@
       "liquidity": 38,
       "highProximity": 59,
       "dailyStrength": 98,
-      "averageDollarVolume20": 612392149,
+      "averageDollarVolume20": 612451783,
       "highDistancePct": 5.83,
       "atr": 14.44,
       "atrPct": 5.03,
+      "sma10": 267.49,
+      "sma10GapPct": 7.29,
       "sma20GapPct": 15.19,
       "sma50GapPct": 25.32,
       "sma200GapPct": 65.99,
@@ -1808,7 +2038,7 @@
       "diagonalVolumeRatio": null,
       "diagonalAnchor1": null,
       "diagonalAnchor2": null,
-      "previousWatchlistRank": 28
+      "previousWatchlistRank": 10
     },
     {
       "watchlistRank": 11,
@@ -1823,10 +2053,12 @@
       "liquidity": 68,
       "highProximity": 88,
       "dailyStrength": 100,
-      "averageDollarVolume20": 2570185764,
+      "averageDollarVolume20": 2570545820,
       "highDistancePct": 1.7,
       "atr": 18.45,
       "atrPct": 4.71,
+      "sma10": 378.58,
+      "sma10GapPct": 3.57,
       "sma20GapPct": 8.33,
       "sma50GapPct": 9.77,
       "sma200GapPct": 59.24,
@@ -1846,7 +2078,7 @@
       "diagonalVolumeRatio": null,
       "diagonalAnchor1": null,
       "diagonalAnchor2": null,
-      "previousWatchlistRank": 33
+      "previousWatchlistRank": 11
     },
     {
       "watchlistRank": 12,
@@ -1861,10 +2093,12 @@
       "liquidity": 86,
       "highProximity": 39,
       "dailyStrength": 17,
-      "averageDollarVolume20": 6013006237,
+      "averageDollarVolume20": 6020173222,
       "highDistancePct": 8.75,
       "atr": 31.29,
       "atrPct": 5.76,
+      "sma10": 557.97,
+      "sma10GapPct": -2.61,
       "sma20GapPct": 1.85,
       "sma50GapPct": 13.53,
       "sma200GapPct": 91.08,
@@ -1884,7 +2118,7 @@
       "diagonalVolumeRatio": null,
       "diagonalAnchor1": null,
       "diagonalAnchor2": null,
-      "previousWatchlistRank": 3
+      "previousWatchlistRank": 12
     },
     {
       "watchlistRank": 13,
@@ -1899,10 +2133,12 @@
       "liquidity": 48,
       "highProximity": 74,
       "dailyStrength": 86,
-      "averageDollarVolume20": 1035987860,
+      "averageDollarVolume20": 1035990993,
       "highDistancePct": 3.66,
       "atr": 17.91,
       "atrPct": 5.06,
+      "sma10": 342.82,
+      "sma10GapPct": 3.26,
       "sma20GapPct": 10.59,
       "sma50GapPct": 17.51,
       "sma200GapPct": 52.38,
@@ -1922,7 +2158,7 @@
       "diagonalVolumeRatio": null,
       "diagonalAnchor1": null,
       "diagonalAnchor2": null,
-      "previousWatchlistRank": 23
+      "previousWatchlistRank": 13
     },
     {
       "watchlistRank": 14,
@@ -1937,10 +2173,12 @@
       "liquidity": 57,
       "highProximity": 51,
       "dailyStrength": 75,
-      "averageDollarVolume20": 1559388525,
+      "averageDollarVolume20": 1559401459,
       "highDistancePct": 7.03,
       "atr": 15.33,
       "atrPct": 3.93,
+      "sma10": 393.2,
+      "sma10GapPct": -0.92,
       "sma20GapPct": 1.31,
       "sma50GapPct": 11.96,
       "sma200GapPct": 53.19,
@@ -1960,7 +2198,7 @@
       "diagonalVolumeRatio": null,
       "diagonalAnchor1": null,
       "diagonalAnchor2": null,
-      "previousWatchlistRank": 11
+      "previousWatchlistRank": 14
     },
     {
       "watchlistRank": 15,
@@ -1975,10 +2213,12 @@
       "liquidity": 25,
       "highProximity": 94,
       "dailyStrength": 63,
-      "averageDollarVolume20": 302753993,
+      "averageDollarVolume20": 302754046,
       "highDistancePct": 0.81,
       "atr": 4.76,
       "atrPct": 3.15,
+      "sma10": 145.79,
+      "sma10GapPct": 3.59,
       "sma20GapPct": 10.65,
       "sma50GapPct": 21.3,
       "sma200GapPct": 43.59,
@@ -1998,7 +2238,7 @@
       "diagonalVolumeRatio": null,
       "diagonalAnchor1": null,
       "diagonalAnchor2": null,
-      "previousWatchlistRank": 13
+      "previousWatchlistRank": 15
     },
     {
       "watchlistRank": 16,
@@ -2013,10 +2253,12 @@
       "liquidity": 29,
       "highProximity": 76,
       "dailyStrength": 68,
-      "averageDollarVolume20": 316481887,
+      "averageDollarVolume20": 316481807,
       "highDistancePct": 3.37,
       "atr": 7.71,
       "atrPct": 4.35,
+      "sma10": 177.14,
+      "sma10GapPct": 0.11,
       "sma20GapPct": 4.67,
       "sma50GapPct": 8.67,
       "sma200GapPct": 44.84,
@@ -2036,7 +2278,7 @@
       "diagonalVolumeRatio": null,
       "diagonalAnchor1": null,
       "diagonalAnchor2": null,
-      "previousWatchlistRank": 19
+      "previousWatchlistRank": 16
     },
     {
       "watchlistRank": 17,
@@ -2051,16 +2293,18 @@
       "liquidity": 30,
       "highProximity": 84,
       "dailyStrength": 87,
-      "averageDollarVolume20": 500994012,
+      "averageDollarVolume20": 501003252,
       "highDistancePct": 2.22,
-      "atr": 7.68,
+      "atr": 7.69,
       "atrPct": 3.76,
+      "sma10": 196.63,
+      "sma10GapPct": 3.96,
       "sma20GapPct": 6.7,
       "sma50GapPct": 8.57,
       "sma200GapPct": 49.97,
       "atrMultiple20": 1.78,
       "atrMultiple50": 2.28,
-      "atrMultiple200": 13.3,
+      "atrMultiple200": 13.28,
       "rs4wPct": 9.56,
       "rs13wPct": 26.89,
       "rs26wPct": 73.27,
@@ -2074,7 +2318,7 @@
       "diagonalVolumeRatio": null,
       "diagonalAnchor1": null,
       "diagonalAnchor2": null,
-      "previousWatchlistRank": 24
+      "previousWatchlistRank": 17
     },
     {
       "watchlistRank": 18,
@@ -2089,10 +2333,12 @@
       "liquidity": 40,
       "highProximity": 81,
       "dailyStrength": 89,
-      "averageDollarVolume20": 737306996,
+      "averageDollarVolume20": 737311484,
       "highDistancePct": 2.78,
       "atr": 6.82,
       "atrPct": 3.87,
+      "sma10": 174.32,
+      "sma10GapPct": 1.15,
       "sma20GapPct": 5.49,
       "sma50GapPct": 8.94,
       "sma200GapPct": 51.17,
@@ -2112,7 +2358,7 @@
       "diagonalVolumeRatio": null,
       "diagonalAnchor1": null,
       "diagonalAnchor2": null,
-      "previousWatchlistRank": 42
+      "previousWatchlistRank": 18
     },
     {
       "watchlistRank": 19,
@@ -2127,16 +2373,18 @@
       "liquidity": 54,
       "highProximity": 96,
       "dailyStrength": 73,
-      "averageDollarVolume20": 1416289730,
+      "averageDollarVolume20": 1416301301,
       "highDistancePct": 0.64,
-      "atr": 15.98,
-      "atrPct": 2.35,
+      "atr": 15.99,
+      "atrPct": 2.36,
+      "sma10": 661.42,
+      "sma10GapPct": 2.6,
       "sma20GapPct": 6.84,
       "sma50GapPct": 11.83,
       "sma200GapPct": 25.69,
       "atrMultiple20": 2.9,
       "atrMultiple50": 5.02,
-      "atrMultiple200": 10.91,
+      "atrMultiple200": 10.9,
       "rs4wPct": 9.41,
       "rs13wPct": 28.47,
       "rs26wPct": 21.1,
@@ -2150,7 +2398,7 @@
       "diagonalVolumeRatio": null,
       "diagonalAnchor1": null,
       "diagonalAnchor2": null,
-      "previousWatchlistRank": 26
+      "previousWatchlistRank": 19
     },
     {
       "watchlistRank": 20,
@@ -2165,10 +2413,12 @@
       "liquidity": 100,
       "highProximity": 79,
       "dailyStrength": 90,
-      "averageDollarVolume20": 25222350449,
+      "averageDollarVolume20": 25226977473,
       "highDistancePct": 3.03,
       "atr": 6.02,
       "atrPct": 2.63,
+      "sma10": 222.79,
+      "sma10GapPct": 2.72,
       "sma20GapPct": 2.98,
       "sma50GapPct": 5.8,
       "sma200GapPct": 14.8,
@@ -2194,7 +2444,7 @@
         "date": "2026-09-22",
         "price": 229.97999572753906
       },
-      "previousWatchlistRank": 35
+      "previousWatchlistRank": 20
     },
     {
       "watchlistRank": 21,
@@ -2209,10 +2459,12 @@
       "liquidity": 94,
       "highProximity": 86,
       "dailyStrength": 52,
-      "averageDollarVolume20": 14038056025,
+      "averageDollarVolume20": 14043363549,
       "highDistancePct": 2.01,
       "atr": 6.83,
       "atrPct": 2.02,
+      "sma10": 336.8,
+      "sma10GapPct": 0.47,
       "sma20GapPct": 2.44,
       "sma50GapPct": 5.14,
       "sma200GapPct": 17.62,
@@ -2238,7 +2490,7 @@
         "date": "2026-09-11",
         "price": 336.2200012207031
       },
-      "previousWatchlistRank": 12
+      "previousWatchlistRank": 21
     },
     {
       "watchlistRank": 22,
@@ -2253,10 +2505,12 @@
       "liquidity": 5,
       "highProximity": 51,
       "dailyStrength": 65,
-      "averageDollarVolume20": 119123784,
+      "averageDollarVolume20": 119123815,
       "highDistancePct": 7.05,
       "atr": 3.32,
       "atrPct": 4.36,
+      "sma10": 76.1,
+      "sma10GapPct": 0.04,
       "sma20GapPct": 3.31,
       "sma50GapPct": 17.26,
       "sma200GapPct": 76.4,
@@ -2276,7 +2530,7 @@
       "diagonalVolumeRatio": null,
       "diagonalAnchor1": null,
       "diagonalAnchor2": null,
-      "previousWatchlistRank": 30
+      "previousWatchlistRank": 22
     },
     {
       "watchlistRank": 23,
@@ -2291,10 +2545,12 @@
       "liquidity": 33,
       "highProximity": 42,
       "dailyStrength": 10,
-      "averageDollarVolume20": 534806487,
+      "averageDollarVolume20": 534828238,
       "highDistancePct": 8.32,
       "atr": 11.61,
       "atrPct": 6.64,
+      "sma10": 173.43,
+      "sma10GapPct": 0.78,
       "sma20GapPct": 8.67,
       "sma50GapPct": 23.13,
       "sma200GapPct": 52.36,
@@ -2314,7 +2570,7 @@
       "diagonalVolumeRatio": null,
       "diagonalAnchor1": null,
       "diagonalAnchor2": null,
-      "previousWatchlistRank": 7
+      "previousWatchlistRank": 23
     },
     {
       "watchlistRank": 24,
@@ -2329,10 +2585,12 @@
       "liquidity": 90,
       "highProximity": 0,
       "dailyStrength": 5,
-      "averageDollarVolume20": 11525734752,
+      "averageDollarVolume20": 11534454658,
       "highDistancePct": 18.49,
       "atr": 6.41,
       "atrPct": 5.52,
+      "sma10": 115.03,
+      "sma10GapPct": 0.87,
       "sma20GapPct": 9.6,
       "sma50GapPct": 16.65,
       "sma200GapPct": 45.8,
@@ -2352,7 +2610,7 @@
       "diagonalVolumeRatio": null,
       "diagonalAnchor1": null,
       "diagonalAnchor2": null,
-      "previousWatchlistRank": 21
+      "previousWatchlistRank": 24
     },
     {
       "watchlistRank": 25,
@@ -2367,10 +2625,12 @@
       "liquidity": 22,
       "highProximity": 96,
       "dailyStrength": 92,
-      "averageDollarVolume20": 286790284,
+      "averageDollarVolume20": 286797105,
       "highDistancePct": 0.57,
       "atr": 12.15,
       "atrPct": 2.74,
+      "sma10": 426.41,
+      "sma10GapPct": 3.88,
       "sma20GapPct": 6.13,
       "sma50GapPct": 9.35,
       "sma200GapPct": 22.13,
@@ -2390,7 +2650,7 @@
       "diagonalVolumeRatio": null,
       "diagonalAnchor1": null,
       "diagonalAnchor2": null,
-      "previousWatchlistRank": 38
+      "previousWatchlistRank": 25
     },
     {
       "watchlistRank": 26,
@@ -2405,10 +2665,12 @@
       "liquidity": 98,
       "highProximity": 0,
       "dailyStrength": 22,
-      "averageDollarVolume20": 24987028965,
+      "averageDollarVolume20": 25004339159,
       "highDistancePct": 16,
       "atr": 48.33,
       "atrPct": 4.59,
+      "sma10": 1027.62,
+      "sma10GapPct": 2.56,
       "sma20GapPct": 5.38,
       "sma50GapPct": 11.45,
       "sma200GapPct": 58.5,
@@ -2428,7 +2690,7 @@
       "diagonalVolumeRatio": null,
       "diagonalAnchor1": null,
       "diagonalAnchor2": null,
-      "previousWatchlistRank": 15
+      "previousWatchlistRank": 26
     },
     {
       "watchlistRank": 27,
@@ -2443,10 +2705,12 @@
       "liquidity": 73,
       "highProximity": 0,
       "dailyStrength": 71,
-      "averageDollarVolume20": 3230993854,
+      "averageDollarVolume20": 3232039077,
       "highDistancePct": 19.4,
       "atr": 50.3,
       "atrPct": 5.46,
+      "sma10": 867.74,
+      "sma10GapPct": 6.2,
       "sma20GapPct": 8.03,
       "sma50GapPct": 8.19,
       "sma200GapPct": 44.56,
@@ -2463,16 +2727,16 @@
       "diagonalAsOf": "2026-09-28",
       "diagonalDistancePct": -1.41,
       "diagonalLinePrice": 934.66,
-      "diagonalVolumeRatio": 0.9,
+      "diagonalVolumeRatio": 0.91,
       "diagonalAnchor1": {
         "date": "2026-06-03",
-        "price": 965.3373296232987
+        "price": 965.3372668940381
       },
       "diagonalAnchor2": {
         "date": "2026-09-22",
         "price": 936.1895506682309
       },
-      "previousWatchlistRank": 40
+      "previousWatchlistRank": 27
     },
     {
       "watchlistRank": 28,
@@ -2487,16 +2751,18 @@
       "liquidity": 8,
       "highProximity": 42,
       "dailyStrength": 81,
-      "averageDollarVolume20": 182476554,
+      "averageDollarVolume20": 182476929,
       "highDistancePct": 8.35,
-      "atr": 1.66,
+      "atr": 1.67,
       "atrPct": 3.46,
+      "sma10": 48.97,
+      "sma10GapPct": -1.79,
       "sma20GapPct": 3.74,
       "sma50GapPct": 16.46,
       "sma200GapPct": 48.68,
       "atrMultiple20": 1.08,
       "atrMultiple50": 4.75,
-      "atrMultiple200": 14.07,
+      "atrMultiple200": 14.06,
       "rs4wPct": 16.46,
       "rs13wPct": 27.68,
       "rs26wPct": 34.89,
@@ -2510,7 +2776,7 @@
       "diagonalVolumeRatio": null,
       "diagonalAnchor1": null,
       "diagonalAnchor2": null,
-      "previousWatchlistRank": 44
+      "previousWatchlistRank": 28
     },
     {
       "watchlistRank": 29,
@@ -2525,10 +2791,12 @@
       "liquidity": 17,
       "highProximity": 76,
       "dailyStrength": 44,
-      "averageDollarVolume20": 253164945,
+      "averageDollarVolume20": 253164923,
       "highDistancePct": 3.39,
       "atr": 3.03,
       "atrPct": 2.69,
+      "sma10": 111.78,
+      "sma10GapPct": 0.99,
       "sma20GapPct": 2.6,
       "sma50GapPct": 12.39,
       "sma200GapPct": 45.88,
@@ -2548,7 +2816,7 @@
       "diagonalVolumeRatio": null,
       "diagonalAnchor1": null,
       "diagonalAnchor2": null,
-      "previousWatchlistRank": 31
+      "previousWatchlistRank": 29
     },
     {
       "watchlistRank": 30,
@@ -2563,10 +2831,12 @@
       "liquidity": 81,
       "highProximity": 64,
       "dailyStrength": 70,
-      "averageDollarVolume20": 4206911465,
+      "averageDollarVolume20": 4207143271,
       "highDistancePct": 5.2,
       "atr": 10.65,
       "atrPct": 2.35,
+      "sma10": 439.36,
+      "sma10GapPct": 3.08,
       "sma20GapPct": 5,
       "sma50GapPct": 7.74,
       "sma200GapPct": 18.52,
@@ -2592,7 +2862,7 @@
         "date": "2026-09-08",
         "price": 443.1012943868179
       },
-      "previousWatchlistRank": 37
+      "previousWatchlistRank": 30
     },
     {
       "watchlistRank": 31,
@@ -2607,10 +2877,12 @@
       "liquidity": 97,
       "highProximity": 0,
       "dailyStrength": 13,
-      "averageDollarVolume20": 17761460548,
+      "averageDollarVolume20": 17764616886,
       "highDistancePct": 27.25,
       "atr": 112.12,
       "atrPct": 6.55,
+      "sma10": 1717.16,
+      "sma10GapPct": -0.25,
       "sma20GapPct": 2.25,
       "sma50GapPct": 12.4,
       "sma200GapPct": 53.57,
@@ -2636,7 +2908,7 @@
         "date": "2026-09-22",
         "price": 1909.47998046875
       },
-      "previousWatchlistRank": 14
+      "previousWatchlistRank": 31
     },
     {
       "watchlistRank": 32,
@@ -2651,10 +2923,12 @@
       "liquidity": 83,
       "highProximity": 0,
       "dailyStrength": 11,
-      "averageDollarVolume20": 4309259394,
+      "averageDollarVolume20": 4317763285,
       "highDistancePct": 23.62,
       "atr": 13.53,
       "atrPct": 5.37,
+      "sma10": 248.98,
+      "sma10GapPct": 1.17,
       "sma20GapPct": 7.35,
       "sma50GapPct": 13.55,
       "sma200GapPct": 54.28,
@@ -2674,7 +2948,7 @@
       "diagonalVolumeRatio": null,
       "diagonalAnchor1": null,
       "diagonalAnchor2": null,
-      "previousWatchlistRank": 27
+      "previousWatchlistRank": 32
     },
     {
       "watchlistRank": 33,
@@ -2689,10 +2963,12 @@
       "liquidity": 89,
       "highProximity": 49,
       "dailyStrength": 38,
-      "averageDollarVolume20": 10684661452,
+      "averageDollarVolume20": 10687338980,
       "highDistancePct": 7.28,
       "atr": 11.93,
       "atrPct": 2.34,
+      "sma10": 500.25,
+      "sma10GapPct": 1.79,
       "sma20GapPct": 1.88,
       "sma50GapPct": 6.59,
       "sma200GapPct": 18.23,
@@ -2718,7 +2994,7 @@
         "date": "2026-09-14",
         "price": 509.95001220703125
       },
-      "previousWatchlistRank": 20
+      "previousWatchlistRank": 33
     },
     {
       "watchlistRank": 34,
@@ -2733,10 +3009,12 @@
       "liquidity": 24,
       "highProximity": 30,
       "dailyStrength": 83,
-      "averageDollarVolume20": 299508531,
+      "averageDollarVolume20": 300364206,
       "highDistancePct": 9.95,
       "atr": 4.51,
       "atrPct": 6.06,
+      "sma10": 73.94,
+      "sma10GapPct": 0.61,
       "sma20GapPct": -0.25,
       "sma50GapPct": 5.66,
       "sma200GapPct": 58.41,
@@ -2771,10 +3049,12 @@
       "liquidity": 95,
       "highProximity": 42,
       "dailyStrength": 8,
-      "averageDollarVolume20": 16051179145,
+      "averageDollarVolume20": 16056956296,
       "highDistancePct": 8.23,
       "atr": 28.01,
       "atrPct": 3.91,
+      "sma10": 715.63,
+      "sma10GapPct": 0,
       "sma20GapPct": 7.23,
       "sma50GapPct": 16.04,
       "sma200GapPct": 14.37,
@@ -2794,7 +3074,7 @@
       "diagonalVolumeRatio": null,
       "diagonalAnchor1": null,
       "diagonalAnchor2": null,
-      "previousWatchlistRank": 22
+      "previousWatchlistRank": 35
     },
     {
       "watchlistRank": 36,
@@ -2809,16 +3089,18 @@
       "liquidity": 51,
       "highProximity": 32,
       "dailyStrength": 41,
-      "averageDollarVolume20": 1259087276,
+      "averageDollarVolume20": 1259090761,
       "highDistancePct": 9.66,
-      "atr": 14.45,
+      "atr": 14.46,
       "atrPct": 3.71,
+      "sma10": 402.6,
+      "sma10GapPct": -3.27,
       "sma20GapPct": -1.75,
       "sma50GapPct": 8.87,
       "sma200GapPct": 52.05,
       "atrMultiple20": -0.47,
       "atrMultiple50": 2.39,
-      "atrMultiple200": 14.03,
+      "atrMultiple200": 14.02,
       "rs4wPct": 5.84,
       "rs13wPct": 47.35,
       "rs26wPct": 43.58,
@@ -2832,7 +3114,7 @@
       "diagonalVolumeRatio": null,
       "diagonalAnchor1": null,
       "diagonalAnchor2": null,
-      "previousWatchlistRank": 29
+      "previousWatchlistRank": 36
     },
     {
       "watchlistRank": 37,
@@ -2847,10 +3129,12 @@
       "liquidity": 84,
       "highProximity": 0,
       "dailyStrength": 2,
-      "averageDollarVolume20": 4433540406,
+      "averageDollarVolume20": 4434222650,
       "highDistancePct": 25.17,
       "atr": 19.91,
       "atrPct": 7.58,
+      "sma10": 271.86,
+      "sma10GapPct": -3.31,
       "sma20GapPct": 1.45,
       "sma50GapPct": 13.98,
       "sma200GapPct": 29.03,
@@ -2876,7 +3160,7 @@
         "date": "2026-09-17",
         "price": 288
       },
-      "previousWatchlistRank": 16
+      "previousWatchlistRank": 37
     },
     {
       "watchlistRank": 38,
@@ -2891,10 +3175,12 @@
       "liquidity": 76,
       "highProximity": 0,
       "dailyStrength": 43,
-      "averageDollarVolume20": 3482274140,
+      "averageDollarVolume20": 3483307585,
       "highDistancePct": 56.97,
       "atr": 8.71,
       "atrPct": 5.54,
+      "sma10": 151.73,
+      "sma10GapPct": 3.56,
       "sma20GapPct": 10.21,
       "sma50GapPct": 32.15,
       "sma200GapPct": 15.22,
@@ -2914,7 +3200,7 @@
       "diagonalVolumeRatio": null,
       "diagonalAnchor1": null,
       "diagonalAnchor2": null,
-      "previousWatchlistRank": 45
+      "previousWatchlistRank": 38
     },
     {
       "watchlistRank": 39,
@@ -2929,10 +3215,12 @@
       "liquidity": 75,
       "highProximity": 0,
       "dailyStrength": 30,
-      "averageDollarVolume20": 3406346103,
+      "averageDollarVolume20": 3406847140,
       "highDistancePct": 22.67,
       "atr": 16.64,
       "atrPct": 7.18,
+      "sma10": 226.65,
+      "sma10GapPct": 2.31,
       "sma20GapPct": 3.92,
       "sma50GapPct": 7.03,
       "sma200GapPct": 40.72,
@@ -2958,7 +3246,7 @@
         "date": "2026-09-08",
         "price": 254.74000549316406
       },
-      "previousWatchlistRank": 47
+      "previousWatchlistRank": 39
     },
     {
       "watchlistRank": 40,
@@ -2973,10 +3261,12 @@
       "liquidity": 44,
       "highProximity": 40,
       "dailyStrength": 46,
-      "averageDollarVolume20": 910670342,
+      "averageDollarVolume20": 910670063,
       "highDistancePct": 8.51,
       "atr": 8.54,
       "atrPct": 3.37,
+      "sma10": 261.71,
+      "sma10GapPct": -3.12,
       "sma20GapPct": -2.04,
       "sma50GapPct": 7.33,
       "sma200GapPct": 40.84,
@@ -2996,7 +3286,7 @@
       "diagonalVolumeRatio": null,
       "diagonalAnchor1": null,
       "diagonalAnchor2": null,
-      "previousWatchlistRank": 39
+      "previousWatchlistRank": 40
     },
     {
       "watchlistRank": 41,
@@ -3011,10 +3301,12 @@
       "liquidity": 79,
       "highProximity": 0,
       "dailyStrength": 32,
-      "averageDollarVolume20": 4074077922,
+      "averageDollarVolume20": 4074507580,
       "highDistancePct": 15.14,
       "atr": 62.17,
       "atrPct": 6.75,
+      "sma10": 921.2,
+      "sma10GapPct": 0.01,
       "sma20GapPct": 0.91,
       "sma50GapPct": 6.78,
       "sma200GapPct": 25.86,
@@ -3040,7 +3332,7 @@
         "date": "2026-09-22",
         "price": 1002
       },
-      "previousWatchlistRank": 43
+      "previousWatchlistRank": 41
     },
     {
       "watchlistRank": 42,
@@ -3055,10 +3347,12 @@
       "liquidity": 70,
       "highProximity": 0,
       "dailyStrength": 25,
-      "averageDollarVolume20": 2652581347,
+      "averageDollarVolume20": 2653085539,
       "highDistancePct": 24.31,
       "atr": 6.07,
       "atrPct": 5.21,
+      "sma10": 117.14,
+      "sma10GapPct": -0.58,
       "sma20GapPct": 0.99,
       "sma50GapPct": 11.36,
       "sma200GapPct": 23.2,
@@ -3078,7 +3372,7 @@
       "diagonalVolumeRatio": null,
       "diagonalAnchor1": null,
       "diagonalAnchor2": null,
-      "previousWatchlistRank": 46
+      "previousWatchlistRank": 42
     },
     {
       "watchlistRank": 43,
@@ -3093,10 +3387,12 @@
       "liquidity": 6,
       "highProximity": 70,
       "dailyStrength": 21,
-      "averageDollarVolume20": 174215790,
+      "averageDollarVolume20": 174519470,
       "highDistancePct": 4.36,
       "atr": 4.15,
       "atrPct": 4.49,
+      "sma10": 93.66,
+      "sma10GapPct": -1.29,
       "sma20GapPct": -0.04,
       "sma50GapPct": 5.89,
       "sma200GapPct": 53.56,
@@ -3116,7 +3412,7 @@
       "diagonalVolumeRatio": null,
       "diagonalAnchor1": null,
       "diagonalAnchor2": null,
-      "previousWatchlistRank": 17
+      "previousWatchlistRank": 43
     },
     {
       "watchlistRank": 44,
@@ -3131,10 +3427,12 @@
       "liquidity": 56,
       "highProximity": 0,
       "dailyStrength": 19,
-      "averageDollarVolume20": 1500137070,
+      "averageDollarVolume20": 1500496558,
       "highDistancePct": 28.92,
       "atr": 2.33,
       "atrPct": 5.58,
+      "sma10": 40.27,
+      "sma10GapPct": 3.76,
       "sma20GapPct": 6.51,
       "sma50GapPct": 18.08,
       "sma200GapPct": 31.27,
@@ -3154,7 +3452,7 @@
       "diagonalVolumeRatio": null,
       "diagonalAnchor1": null,
       "diagonalAnchor2": null,
-      "previousWatchlistRank": 32
+      "previousWatchlistRank": 44
     },
     {
       "watchlistRank": 45,
@@ -3169,16 +3467,18 @@
       "liquidity": 2,
       "highProximity": 42,
       "dailyStrength": 84,
-      "averageDollarVolume20": 42519575,
+      "averageDollarVolume20": 42577229,
       "highDistancePct": 8.25,
-      "atr": 2.53,
+      "atr": 2.54,
       "atrPct": 3.33,
+      "sma10": 76.81,
+      "sma10GapPct": -0.92,
       "sma20GapPct": -1.76,
       "sma50GapPct": 0.12,
       "sma200GapPct": 37.04,
       "atrMultiple20": -0.53,
       "atrMultiple50": 0.04,
-      "atrMultiple200": 11.13,
+      "atrMultiple200": 11.11,
       "rs4wPct": -2.3,
       "rs13wPct": 27.98,
       "rs26wPct": 40.78,
@@ -3189,7 +3489,7 @@
       "diagonalAsOf": "2026-09-28",
       "diagonalDistancePct": -3.82,
       "diagonalLinePrice": 79.12,
-      "diagonalVolumeRatio": 1.01,
+      "diagonalVolumeRatio": 1.04,
       "diagonalAnchor1": {
         "date": "2026-07-29",
         "price": 82.94000244140625
@@ -3198,7 +3498,7 @@
         "date": "2026-09-17",
         "price": 79.76000213623047
       },
-      "previousWatchlistRank": 54
+      "previousWatchlistRank": 45
     },
     {
       "watchlistRank": 46,
@@ -3213,10 +3513,12 @@
       "liquidity": 78,
       "highProximity": 37,
       "dailyStrength": 6,
-      "averageDollarVolume20": 3585748665,
+      "averageDollarVolume20": 3595851925,
       "highDistancePct": 8.98,
       "atr": 9.51,
       "atrPct": 5.23,
+      "sma10": 185.35,
+      "sma10GapPct": -1.85,
       "sma20GapPct": 0.43,
       "sma50GapPct": 10.58,
       "sma200GapPct": null,
@@ -3233,7 +3535,7 @@
       "diagonalAsOf": "2026-09-28",
       "diagonalDistancePct": -6.69,
       "diagonalLinePrice": 194.97,
-      "diagonalVolumeRatio": 0.78,
+      "diagonalVolumeRatio": 0.83,
       "diagonalAnchor1": {
         "date": "2026-09-09",
         "price": 199.8699951171875
@@ -3242,7 +3544,7 @@
         "date": "2026-09-22",
         "price": 196.47999572753906
       },
-      "previousWatchlistRank": 25
+      "previousWatchlistRank": 46
     },
     {
       "watchlistRank": 47,
@@ -3257,10 +3559,12 @@
       "liquidity": 59,
       "highProximity": 0,
       "dailyStrength": 3,
-      "averageDollarVolume20": 1570153909,
+      "averageDollarVolume20": 1570362624,
       "highDistancePct": 37.41,
       "atr": 19.83,
       "atrPct": 7,
+      "sma10": 291.5,
+      "sma10GapPct": -2.8,
       "sma20GapPct": 4.84,
       "sma50GapPct": 7.06,
       "sma200GapPct": 33.31,
@@ -3277,7 +3581,7 @@
       "diagonalAsOf": "2026-09-28",
       "diagonalDistancePct": -15.04,
       "diagonalLinePrice": 333.48,
-      "diagonalVolumeRatio": 1.7,
+      "diagonalVolumeRatio": 1.71,
       "diagonalAnchor1": {
         "date": "2026-06-02",
         "price": 427.989990234375
@@ -3286,7 +3590,7 @@
         "date": "2026-09-23",
         "price": 336.9800109863281
       },
-      "previousWatchlistRank": 36
+      "previousWatchlistRank": 47
     },
     {
       "watchlistRank": 48,
@@ -3301,10 +3605,12 @@
       "liquidity": 43,
       "highProximity": 0,
       "dailyStrength": 78,
-      "averageDollarVolume20": 902539608,
+      "averageDollarVolume20": 902574320,
       "highDistancePct": 17.72,
       "atr": 20.27,
       "atrPct": 5.05,
+      "sma10": 375.54,
+      "sma10GapPct": 6.86,
       "sma20GapPct": 9.76,
       "sma50GapPct": 8.32,
       "sma200GapPct": 21.42,
@@ -3330,7 +3636,7 @@
         "date": "2026-08-17",
         "price": 443.99945189199707
       },
-      "previousWatchlistRank": 49
+      "previousWatchlistRank": 48
     },
     {
       "watchlistRank": 49,
@@ -3345,10 +3651,12 @@
       "liquidity": 63,
       "highProximity": 0,
       "dailyStrength": 29,
-      "averageDollarVolume20": 1872589352,
+      "averageDollarVolume20": 1872609187,
       "highDistancePct": 14.68,
       "atr": 15.26,
       "atrPct": 4.65,
+      "sma10": 333.37,
+      "sma10GapPct": -1.57,
       "sma20GapPct": -1.2,
       "sma50GapPct": 3.11,
       "sma200GapPct": 45.46,
@@ -3374,7 +3682,7 @@
         "date": "2026-09-23",
         "price": 348.6099853515625
       },
-      "previousWatchlistRank": 41
+      "previousWatchlistRank": 49
     },
     {
       "watchlistRank": 50,
@@ -3389,10 +3697,12 @@
       "liquidity": 10,
       "highProximity": 59,
       "dailyStrength": 79,
-      "averageDollarVolume20": 190219425,
+      "averageDollarVolume20": 190219606,
       "highDistancePct": 5.87,
       "atr": 3.33,
       "atrPct": 2.67,
+      "sma10": 124.88,
+      "sma10GapPct": -0.05,
       "sma20GapPct": -0.06,
       "sma50GapPct": 1.15,
       "sma200GapPct": 17.32,
@@ -3418,7 +3728,7 @@
         "date": "2026-09-18",
         "price": 128.72000122070312
       },
-      "previousWatchlistRank": 56
+      "previousWatchlistRank": 50
     },
     {
       "watchlistRank": 51,
@@ -3433,10 +3743,12 @@
       "liquidity": 49,
       "highProximity": 0,
       "dailyStrength": 24,
-      "averageDollarVolume20": 1071007297,
+      "averageDollarVolume20": 1072070472,
       "highDistancePct": 59.07,
       "atr": 1.64,
       "atrPct": 6.1,
+      "sma10": 26.32,
+      "sma10GapPct": 1.98,
       "sma20GapPct": 5.19,
       "sma50GapPct": 23.32,
       "sma200GapPct": 22.77,
@@ -3471,10 +3783,12 @@
       "liquidity": 19,
       "highProximity": 0,
       "dailyStrength": 48,
-      "averageDollarVolume20": 281049791,
+      "averageDollarVolume20": 281050579,
       "highDistancePct": 27.19,
       "atr": 39.96,
       "atrPct": 6.09,
+      "sma10": 615.53,
+      "sma10GapPct": 6.68,
       "sma20GapPct": 9.31,
       "sma50GapPct": 8.94,
       "sma200GapPct": 25.59,
@@ -3500,7 +3814,7 @@
         "date": "2026-08-17",
         "price": 754.989990234375
       },
-      "previousWatchlistRank": 48
+      "previousWatchlistRank": 52
     },
     {
       "watchlistRank": 53,
@@ -3515,10 +3829,12 @@
       "liquidity": 16,
       "highProximity": 0,
       "dailyStrength": 56,
-      "averageDollarVolume20": 216377382,
+      "averageDollarVolume20": 216470270,
       "highDistancePct": 17.99,
       "atr": 4.19,
       "atrPct": 6.22,
+      "sma10": 73.92,
+      "sma10GapPct": -8.72,
       "sma20GapPct": -8.76,
       "sma50GapPct": -2.26,
       "sma200GapPct": 42.32,
@@ -3538,7 +3854,7 @@
       "diagonalVolumeRatio": null,
       "diagonalAnchor1": null,
       "diagonalAnchor2": null,
-      "previousWatchlistRank": 50
+      "previousWatchlistRank": 53
     },
     {
       "watchlistRank": 54,
@@ -3553,10 +3869,12 @@
       "liquidity": 62,
       "highProximity": 0,
       "dailyStrength": 35,
-      "averageDollarVolume20": 1836278870,
+      "averageDollarVolume20": 1836604906,
       "highDistancePct": 52.31,
       "atr": 11.15,
       "atrPct": 5.82,
+      "sma10": 189.12,
+      "sma10GapPct": 1.41,
       "sma20GapPct": 3.64,
       "sma50GapPct": 12.07,
       "sma200GapPct": 2.58,
@@ -3576,7 +3894,7 @@
       "diagonalVolumeRatio": null,
       "diagonalAnchor1": null,
       "diagonalAnchor2": null,
-      "previousWatchlistRank": 58
+      "previousWatchlistRank": 54
     },
     {
       "watchlistRank": 55,
@@ -3591,15 +3909,17 @@
       "liquidity": 14,
       "highProximity": 0,
       "dailyStrength": 60,
-      "averageDollarVolume20": 212052002,
+      "averageDollarVolume20": 212054187,
       "highDistancePct": 18.57,
       "atr": 4.17,
       "atrPct": 4.74,
+      "sma10": 88.37,
+      "sma10GapPct": -0.48,
       "sma20GapPct": -1.09,
       "sma50GapPct": 9.79,
       "sma200GapPct": 35.77,
       "atrMultiple20": -0.23,
-      "atrMultiple50": 2.07,
+      "atrMultiple50": 2.06,
       "atrMultiple200": 7.54,
       "rs4wPct": -11.77,
       "rs13wPct": 56.97,
@@ -3614,7 +3934,7 @@
       "diagonalVolumeRatio": null,
       "diagonalAnchor1": null,
       "diagonalAnchor2": null,
-      "previousWatchlistRank": 57
+      "previousWatchlistRank": 55
     },
     {
       "watchlistRank": 56,
@@ -3629,10 +3949,12 @@
       "liquidity": 87,
       "highProximity": 0,
       "dailyStrength": 59,
-      "averageDollarVolume20": 9104076668,
+      "averageDollarVolume20": 9107055595,
       "highDistancePct": 16.01,
       "atr": 8.47,
       "atrPct": 2.47,
+      "sma10": 345.77,
+      "sma10GapPct": -0.87,
       "sma20GapPct": 0.24,
       "sma50GapPct": -0.38,
       "sma200GapPct": 1.42,
@@ -3649,16 +3971,16 @@
       "diagonalAsOf": "2026-09-28",
       "diagonalDistancePct": -5.51,
       "diagonalLinePrice": 362.73,
-      "diagonalVolumeRatio": 0.71,
+      "diagonalVolumeRatio": 0.72,
       "diagonalAnchor1": {
         "date": "2026-05-27",
-        "price": 393.39199754996946
+        "price": 393.3920284639016
       },
       "diagonalAnchor2": {
         "date": "2026-09-22",
         "price": 364.1700134277344
       },
-      "previousWatchlistRank": 55
+      "previousWatchlistRank": 56
     },
     {
       "watchlistRank": 57,
@@ -3673,10 +3995,12 @@
       "liquidity": 32,
       "highProximity": 0,
       "dailyStrength": 67,
-      "averageDollarVolume20": 528305237,
+      "averageDollarVolume20": 528307973,
       "highDistancePct": 19.97,
-      "atr": 71.91,
+      "atr": 71.93,
       "atrPct": 4.34,
+      "sma10": 1623.37,
+      "sma10GapPct": 2.15,
       "sma20GapPct": 2.96,
       "sma50GapPct": -0.35,
       "sma200GapPct": 7.61,
@@ -3702,7 +4026,7 @@
         "date": "2026-09-18",
         "price": 1679.8199462890625
       },
-      "previousWatchlistRank": 61
+      "previousWatchlistRank": 57
     },
     {
       "watchlistRank": 58,
@@ -3717,10 +4041,12 @@
       "liquidity": 11,
       "highProximity": 5,
       "dailyStrength": 40,
-      "averageDollarVolume20": 206672466,
+      "averageDollarVolume20": 206672647,
       "highDistancePct": 13.55,
-      "atr": 5.94,
+      "atr": 5.95,
       "atrPct": 4.43,
+      "sma10": 135.88,
+      "sma10GapPct": -1.25,
       "sma20GapPct": -4.32,
       "sma50GapPct": 10.25,
       "sma200GapPct": 32.92,
@@ -3740,7 +4066,7 @@
       "diagonalVolumeRatio": null,
       "diagonalAnchor1": null,
       "diagonalAnchor2": null,
-      "previousWatchlistRank": 52
+      "previousWatchlistRank": 58
     },
     {
       "watchlistRank": 59,
@@ -3755,10 +4081,12 @@
       "liquidity": 3,
       "highProximity": 10,
       "dailyStrength": 27,
-      "averageDollarVolume20": 57493112,
+      "averageDollarVolume20": 57494048,
       "highDistancePct": 12.82,
       "atr": 0.98,
       "atrPct": 4.2,
+      "sma10": 24.39,
+      "sma10GapPct": -4.05,
       "sma20GapPct": -2.98,
       "sma50GapPct": 2.45,
       "sma200GapPct": 40.24,
@@ -3778,7 +4106,7 @@
       "diagonalVolumeRatio": null,
       "diagonalAnchor1": null,
       "diagonalAnchor2": null,
-      "previousWatchlistRank": 53
+      "previousWatchlistRank": 59
     },
     {
       "watchlistRank": 60,
@@ -3793,10 +4121,12 @@
       "liquidity": 65,
       "highProximity": 0,
       "dailyStrength": 49,
-      "averageDollarVolume20": 2074613037,
+      "averageDollarVolume20": 2076162252,
       "highDistancePct": 20.58,
       "atr": 35.95,
       "atrPct": 3.79,
+      "sma10": 938.39,
+      "sma10GapPct": 1.21,
       "sma20GapPct": 1.77,
       "sma50GapPct": -2.16,
       "sma200GapPct": 4.2,
@@ -3837,10 +4167,12 @@
       "liquidity": 35,
       "highProximity": 0,
       "dailyStrength": 54,
-      "averageDollarVolume20": 537468944,
+      "averageDollarVolume20": 537468106,
       "highDistancePct": 18.29,
-      "atr": 22,
-      "atrPct": 3.41,
+      "atr": 22.02,
+      "atrPct": 3.42,
+      "sma10": 634.3,
+      "sma10GapPct": 1.59,
       "sma20GapPct": 2.49,
       "sma50GapPct": 0.41,
       "sma200GapPct": 7.14,
@@ -3866,7 +4198,7 @@
         "date": "2026-09-11",
         "price": 653.8699951171875
       },
-      "previousWatchlistRank": 59
+      "previousWatchlistRank": 61
     },
     {
       "watchlistRank": 62,
@@ -3881,10 +4213,12 @@
       "liquidity": 52,
       "highProximity": 0,
       "dailyStrength": 16,
-      "averageDollarVolume20": 1406758436,
+      "averageDollarVolume20": 1407490974,
       "highDistancePct": 46.2,
       "atr": 6.37,
       "atrPct": 7.43,
+      "sma10": 89.22,
+      "sma10GapPct": -3.84,
       "sma20GapPct": -6.67,
       "sma50GapPct": 7.12,
       "sma200GapPct": -0.32,
@@ -3901,7 +4235,7 @@
       "diagonalAsOf": "2026-09-28",
       "diagonalDistancePct": -13.37,
       "diagonalLinePrice": 99.04,
-      "diagonalVolumeRatio": 0.62,
+      "diagonalVolumeRatio": 0.63,
       "diagonalAnchor1": {
         "date": "2026-05-29",
         "price": 114.44000244140625
@@ -3925,10 +4259,12 @@
       "liquidity": 21,
       "highProximity": 0,
       "dailyStrength": 37,
-      "averageDollarVolume20": 283569986,
+      "averageDollarVolume20": 283572366,
       "highDistancePct": 30.78,
       "atr": 10.44,
       "atrPct": 5.09,
+      "sma10": 198.68,
+      "sma10GapPct": 3.29,
       "sma20GapPct": 7.24,
       "sma50GapPct": 2.1,
       "sma200GapPct": -3.04,
@@ -3965,9 +4301,9 @@
       "dayPct": -3.46,
       "rsRating": 99,
       "marketCap": 357892638848,
-      "averageDollarVolume20": 6013006236.95,
-      "lastDollarVolume": 3591397854.97,
-      "volumeMultiple": 0.6,
+      "averageDollarVolume20": 6020173221.81,
+      "lastDollarVolume": 3720158700.86,
+      "volumeMultiple": 0.62,
       "aboveSma5": false,
       "aboveSma20": true,
       "aboveSma50": true,
@@ -3982,7 +4318,7 @@
         "addv": true
       },
       "pass": true,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "HPE",
@@ -3991,14 +4327,14 @@
       "dayPct": -0.49,
       "rsRating": 99,
       "marketCap": 83550633190,
-      "averageDollarVolume20": 1604100149.35,
-      "lastDollarVolume": 940477148.04,
+      "averageDollarVolume20": 1604169614.35,
+      "lastDollarVolume": 940815350.05,
       "volumeMultiple": 0.59,
       "aboveSma5": true,
       "aboveSma20": true,
       "aboveSma50": true,
       "aboveSma200": true,
-      "atrPct": 5.47,
+      "atrPct": 5.48,
       "atr50Multiple": 2.85,
       "checks": {
         "rs": true,
@@ -4008,7 +4344,7 @@
         "addv": true
       },
       "pass": true,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "MRVL",
@@ -4017,9 +4353,9 @@
       "dayPct": -3.83,
       "rsRating": 99,
       "marketCap": 229690801500,
-      "averageDollarVolume20": 4309259394.3,
-      "lastDollarVolume": 4086919207.77,
-      "volumeMultiple": 0.95,
+      "averageDollarVolume20": 4317763284.57,
+      "lastDollarVolume": 4249426947.04,
+      "volumeMultiple": 0.98,
       "aboveSma5": false,
       "aboveSma20": true,
       "aboveSma50": true,
@@ -4034,7 +4370,7 @@
         "addv": true
       },
       "pass": true,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "MU",
@@ -4043,9 +4379,9 @@
       "dayPct": -2.61,
       "rsRating": 99,
       "marketCap": 1222319619464,
-      "averageDollarVolume20": 24987028965.04,
-      "lastDollarVolume": 23070260030.33,
-      "volumeMultiple": 0.92,
+      "averageDollarVolume20": 25004339159.42,
+      "lastDollarVolume": 23332587215.63,
+      "volumeMultiple": 0.93,
       "aboveSma5": false,
       "aboveSma20": true,
       "aboveSma50": true,
@@ -4060,7 +4396,7 @@
         "addv": true
       },
       "pass": true,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "RNG",
@@ -4069,8 +4405,8 @@
       "dayPct": -0.04,
       "rsRating": 99,
       "marketCap": 6359829298,
-      "averageDollarVolume20": 119123784.23,
-      "lastDollarVolume": 104975044.17,
+      "averageDollarVolume20": 119123814.68,
+      "lastDollarVolume": 104975653.21,
       "volumeMultiple": 0.88,
       "aboveSma5": false,
       "aboveSma20": true,
@@ -4086,7 +4422,7 @@
         "addv": true
       },
       "pass": true,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "SNDK",
@@ -4095,8 +4431,8 @@
       "dayPct": -3.65,
       "rsRating": 99,
       "marketCap": 260303699978,
-      "averageDollarVolume20": 17761460547.93,
-      "lastDollarVolume": 11331426909.56,
+      "averageDollarVolume20": 17764616886.36,
+      "lastDollarVolume": 11359886577.15,
       "volumeMultiple": 0.64,
       "aboveSma5": false,
       "aboveSma20": true,
@@ -4112,7 +4448,7 @@
         "addv": true
       },
       "pass": true,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "FTNT",
@@ -4121,8 +4457,8 @@
       "dayPct": 1.65,
       "rsRating": 98,
       "marketCap": 127269970249,
-      "averageDollarVolume20": 737306995.97,
-      "lastDollarVolume": 499065217.21,
+      "averageDollarVolume20": 737311483.57,
+      "lastDollarVolume": 499154969.18,
       "volumeMultiple": 0.68,
       "aboveSma5": true,
       "aboveSma20": true,
@@ -4138,7 +4474,7 @@
         "addv": true
       },
       "pass": true,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "PANW",
@@ -4147,9 +4483,9 @@
       "dayPct": 4.63,
       "rsRating": 98,
       "marketCap": 306537320000,
-      "averageDollarVolume20": 2570185763.51,
-      "lastDollarVolume": 2348828454.12,
-      "volumeMultiple": 0.91,
+      "averageDollarVolume20": 2570545819.75,
+      "lastDollarVolume": 2356029578.99,
+      "volumeMultiple": 0.92,
       "aboveSma5": true,
       "aboveSma20": true,
       "aboveSma50": true,
@@ -4164,7 +4500,7 @@
         "addv": true
       },
       "pass": true,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "GH",
@@ -4173,8 +4509,8 @@
       "dayPct": 0.05,
       "rsRating": 97,
       "marketCap": 23786271133,
-      "averageDollarVolume20": 316481887.2,
-      "lastDollarVolume": 233811203.38,
+      "averageDollarVolume20": 316481807.4,
+      "lastDollarVolume": 233809607.41,
       "volumeMultiple": 0.74,
       "aboveSma5": true,
       "aboveSma20": true,
@@ -4190,7 +4526,7 @@
         "addv": true
       },
       "pass": true,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "HNGE",
@@ -4199,8 +4535,8 @@
       "dayPct": -3.26,
       "rsRating": 97,
       "marketCap": 7711965433,
-      "averageDollarVolume20": 174215789.8,
-      "lastDollarVolume": 110306436.51,
+      "averageDollarVolume20": 174519469.54,
+      "lastDollarVolume": 110311336.36,
       "volumeMultiple": 0.63,
       "aboveSma5": false,
       "aboveSma20": false,
@@ -4216,7 +4552,7 @@
         "addv": true
       },
       "pass": true,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "INTC",
@@ -4225,9 +4561,9 @@
       "dayPct": -5.67,
       "rsRating": 97,
       "marketCap": 650063549853,
-      "averageDollarVolume20": 11525734751.97,
-      "lastDollarVolume": 12760802436.03,
-      "volumeMultiple": 1.11,
+      "averageDollarVolume20": 11534454658.38,
+      "lastDollarVolume": 12904856464.23,
+      "volumeMultiple": 1.12,
       "aboveSma5": false,
       "aboveSma20": true,
       "aboveSma50": true,
@@ -4242,7 +4578,7 @@
         "addv": true
       },
       "pass": true,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "NTAP",
@@ -4251,8 +4587,8 @@
       "dayPct": 1.62,
       "rsRating": 97,
       "marketCap": 39508700761,
-      "averageDollarVolume20": 500994012.41,
-      "lastDollarVolume": 602354581.15,
+      "averageDollarVolume20": 501003251.74,
+      "lastDollarVolume": 602539367.79,
       "volumeMultiple": 1.2,
       "aboveSma5": true,
       "aboveSma20": true,
@@ -4268,7 +4604,7 @@
         "addv": true
       },
       "pass": true,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "SMTC",
@@ -4277,8 +4613,8 @@
       "dayPct": -4.13,
       "rsRating": 97,
       "marketCap": 17013261620,
-      "averageDollarVolume20": 534806486.53,
-      "lastDollarVolume": 478724339.24,
+      "averageDollarVolume20": 534828237.9,
+      "lastDollarVolume": 479159366.65,
       "volumeMultiple": 0.9,
       "aboveSma5": false,
       "aboveSma20": true,
@@ -4294,7 +4630,7 @@
         "addv": true
       },
       "pass": true,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "STX",
@@ -4303,9 +4639,9 @@
       "dayPct": 0.51,
       "rsRating": 97,
       "marketCap": 209696029113,
-      "averageDollarVolume20": 3230993853.93,
-      "lastDollarVolume": 3114349051.65,
-      "volumeMultiple": 0.96,
+      "averageDollarVolume20": 3232039076.66,
+      "lastDollarVolume": 3135253506.23,
+      "volumeMultiple": 0.97,
       "aboveSma5": true,
       "aboveSma20": true,
       "aboveSma50": true,
@@ -4320,7 +4656,7 @@
         "addv": true
       },
       "pass": true,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "DINO",
@@ -4329,8 +4665,8 @@
       "dayPct": -0.59,
       "rsRating": 96,
       "marketCap": 18990870750,
-      "averageDollarVolume20": 319090324.22,
-      "lastDollarVolume": 267491023.3,
+      "averageDollarVolume20": 319093589.56,
+      "lastDollarVolume": 267556330.15,
       "volumeMultiple": 0.84,
       "aboveSma5": false,
       "aboveSma20": false,
@@ -4346,7 +4682,7 @@
         "addv": true
       },
       "pass": true,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "MPC",
@@ -4355,8 +4691,8 @@
       "dayPct": -1.04,
       "rsRating": 96,
       "marketCap": 110510160736,
-      "averageDollarVolume20": 1259087275.86,
-      "lastDollarVolume": 1034282936.72,
+      "averageDollarVolume20": 1259090761.35,
+      "lastDollarVolume": 1034352646.48,
       "volumeMultiple": 0.82,
       "aboveSma5": false,
       "aboveSma20": false,
@@ -4372,7 +4708,7 @@
         "addv": true
       },
       "pass": true,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "NET",
@@ -4381,8 +4717,8 @@
       "dayPct": 1.42,
       "rsRating": 96,
       "marketCap": 124278942129,
-      "averageDollarVolume20": 1035987860.04,
-      "lastDollarVolume": 998861697.21,
+      "averageDollarVolume20": 1035990992.85,
+      "lastDollarVolume": 998924353.44,
       "volumeMultiple": 0.96,
       "aboveSma5": true,
       "aboveSma20": true,
@@ -4398,7 +4734,7 @@
         "addv": true
       },
       "pass": true,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "VLO",
@@ -4407,8 +4743,8 @@
       "dayPct": 0.62,
       "rsRating": 96,
       "marketCap": 111479754350,
-      "averageDollarVolume20": 1559388525.48,
-      "lastDollarVolume": 1386766379.59,
+      "averageDollarVolume20": 1559401459.2,
+      "lastDollarVolume": 1387025054.08,
       "volumeMultiple": 0.89,
       "aboveSma5": true,
       "aboveSma20": true,
@@ -4424,7 +4760,7 @@
         "addv": true
       },
       "pass": true,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "ZETA",
@@ -4433,8 +4769,8 @@
       "dayPct": -1.56,
       "rsRating": 96,
       "marketCap": 7392350667,
-      "averageDollarVolume20": 195670598.92,
-      "lastDollarVolume": 160270604.94,
+      "averageDollarVolume20": 195673673.31,
+      "lastDollarVolume": 160332092.73,
       "volumeMultiple": 0.82,
       "aboveSma5": false,
       "aboveSma20": false,
@@ -4450,7 +4786,7 @@
         "addv": true
       },
       "pass": true,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "SMCI",
@@ -4459,8 +4795,8 @@
       "dayPct": -3.42,
       "rsRating": 95,
       "marketCap": 28420322512,
-      "averageDollarVolume20": 1500137069.95,
-      "lastDollarVolume": 1225858546.4,
+      "averageDollarVolume20": 1500496558.43,
+      "lastDollarVolume": 1229280370.08,
       "volumeMultiple": 0.82,
       "aboveSma5": false,
       "aboveSma20": true,
@@ -4476,7 +4812,7 @@
         "addv": true
       },
       "pass": true,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "ARM",
@@ -4485,8 +4821,8 @@
       "dayPct": -8.7,
       "rsRating": 94,
       "marketCap": 330197625801,
-      "averageDollarVolume20": 1570153908.54,
-      "lastDollarVolume": 2559027088.83,
+      "averageDollarVolume20": 1570362623.58,
+      "lastDollarVolume": 2563201389.52,
       "volumeMultiple": 1.63,
       "aboveSma5": false,
       "aboveSma20": true,
@@ -4502,7 +4838,7 @@
         "addv": true
       },
       "pass": true,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "SIMO",
@@ -4511,8 +4847,8 @@
       "dayPct": 0.67,
       "rsRating": 94,
       "marketCap": 9366471754,
-      "averageDollarVolume20": 200964362.3,
-      "lastDollarVolume": 114931061.22,
+      "averageDollarVolume20": 200965516.29,
+      "lastDollarVolume": 114954141.03,
       "volumeMultiple": 0.57,
       "aboveSma5": true,
       "aboveSma20": true,
@@ -4528,7 +4864,7 @@
         "addv": true
       },
       "pass": true,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "PSX",
@@ -4537,8 +4873,8 @@
       "dayPct": -0.86,
       "rsRating": 93,
       "marketCap": 102049599267,
-      "averageDollarVolume20": 910670341.91,
-      "lastDollarVolume": 911796744.07,
+      "averageDollarVolume20": 910670063,
+      "lastDollarVolume": 911791165.97,
       "volumeMultiple": 1,
       "aboveSma5": false,
       "aboveSma20": false,
@@ -4554,7 +4890,7 @@
         "addv": true
       },
       "pass": true,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "BMNR",
@@ -4563,8 +4899,8 @@
       "dayPct": -2.61,
       "rsRating": 91,
       "marketCap": 16624919419,
-      "averageDollarVolume20": 1071007296.61,
-      "lastDollarVolume": 715648988.23,
+      "averageDollarVolume20": 1072070472.18,
+      "lastDollarVolume": 719081180.09,
       "volumeMultiple": 0.67,
       "aboveSma5": false,
       "aboveSma20": true,
@@ -4580,7 +4916,7 @@
         "addv": true
       },
       "pass": true,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "PLTR",
@@ -4589,8 +4925,8 @@
       "dayPct": -1.15,
       "rsRating": 91,
       "marketCap": 455597483552,
-      "averageDollarVolume20": 4634889759.86,
-      "lastDollarVolume": 3257376622.69,
+      "averageDollarVolume20": 4635460530.81,
+      "lastDollarVolume": 3263633017.63,
       "volumeMultiple": 0.7,
       "aboveSma5": false,
       "aboveSma20": true,
@@ -4606,7 +4942,7 @@
         "addv": true
       },
       "pass": true,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "ANET",
@@ -4615,15 +4951,15 @@
       "dayPct": -0.79,
       "rsRating": 90,
       "marketCap": 260505951044,
-      "averageDollarVolume20": 944628150.71,
-      "lastDollarVolume": 709527296.86,
+      "averageDollarVolume20": 944680815.15,
+      "lastDollarVolume": 710580585.65,
       "volumeMultiple": 0.75,
       "aboveSma5": false,
       "aboveSma20": true,
       "aboveSma50": true,
       "aboveSma200": true,
       "atrPct": 3.65,
-      "atr50Multiple": 2.01,
+      "atr50Multiple": 2,
       "checks": {
         "rs": true,
         "sma200": true,
@@ -4632,7 +4968,7 @@
         "addv": true
       },
       "pass": true,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "BE",
@@ -4641,8 +4977,8 @@
       "dayPct": -8.95,
       "rsRating": 90,
       "marketCap": 85030044790,
-      "averageDollarVolume20": 4433540405.7,
-      "lastDollarVolume": 4074042776.98,
+      "averageDollarVolume20": 4434222649.58,
+      "lastDollarVolume": 4080268064.21,
       "volumeMultiple": 0.92,
       "aboveSma5": false,
       "aboveSma20": true,
@@ -4658,7 +4994,7 @@
         "addv": true
       },
       "pass": true,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "HOOD",
@@ -4667,8 +5003,8 @@
       "dayPct": -2.46,
       "rsRating": 90,
       "marketCap": 107350423396,
-      "averageDollarVolume20": 2652581346.91,
-      "lastDollarVolume": 1490764851.88,
+      "averageDollarVolume20": 2653085538.73,
+      "lastDollarVolume": 1497792048.23,
       "volumeMultiple": 0.56,
       "aboveSma5": false,
       "aboveSma20": true,
@@ -4684,7 +5020,7 @@
         "addv": true
       },
       "pass": true,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "FFIV",
@@ -4693,15 +5029,15 @@
       "dayPct": -1.69,
       "rsRating": 89,
       "marketCap": 25089239257,
-      "averageDollarVolume20": 232710584.18,
-      "lastDollarVolume": 204034596.38,
+      "averageDollarVolume20": 232711847.31,
+      "lastDollarVolume": 204059858.86,
       "volumeMultiple": 0.88,
       "aboveSma5": false,
       "aboveSma20": true,
       "aboveSma50": true,
       "aboveSma200": true,
-      "atrPct": 3.15,
-      "atr50Multiple": 2.15,
+      "atrPct": 3.2,
+      "atr50Multiple": 2.11,
       "checks": {
         "rs": true,
         "sma200": true,
@@ -4710,7 +5046,7 @@
         "addv": true
       },
       "pass": true,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "LITE",
@@ -4719,8 +5055,8 @@
       "dayPct": -2.16,
       "rsRating": 89,
       "marketCap": 84466005000,
-      "averageDollarVolume20": 4074077922.39,
-      "lastDollarVolume": 4075434176.76,
+      "averageDollarVolume20": 4074507579.98,
+      "lastDollarVolume": 4084027328.47,
       "volumeMultiple": 1,
       "aboveSma5": false,
       "aboveSma20": true,
@@ -4736,7 +5072,7 @@
         "addv": true
       },
       "pass": true,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "SITM",
@@ -4745,8 +5081,8 @@
       "dayPct": -0.85,
       "rsRating": 89,
       "marketCap": 19915145012,
-      "averageDollarVolume20": 281049791.35,
-      "lastDollarVolume": 220224658.59,
+      "averageDollarVolume20": 281050579.33,
+      "lastDollarVolume": 220240418.19,
       "volumeMultiple": 0.78,
       "aboveSma5": true,
       "aboveSma20": true,
@@ -4762,7 +5098,7 @@
         "addv": true
       },
       "pass": true,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "MSFT",
@@ -4771,8 +5107,8 @@
       "dayPct": -1.35,
       "rsRating": 87,
       "marketCap": 3832843816089,
-      "averageDollarVolume20": 10684661452.33,
-      "lastDollarVolume": 9953147436.04,
+      "averageDollarVolume20": 10687338979.94,
+      "lastDollarVolume": 9986618975.94,
       "volumeMultiple": 0.93,
       "aboveSma5": true,
       "aboveSma20": true,
@@ -4788,7 +5124,7 @@
         "addv": true
       },
       "pass": true,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "WDC",
@@ -4797,9 +5133,9 @@
       "dayPct": -0.78,
       "rsRating": 87,
       "marketCap": 164698708629,
-      "averageDollarVolume20": 2945895630.65,
-      "lastDollarVolume": 3263973542.21,
-      "volumeMultiple": 1.11,
+      "averageDollarVolume20": 2947416602.59,
+      "lastDollarVolume": 3294392980.86,
+      "volumeMultiple": 1.12,
       "aboveSma5": false,
       "aboveSma20": true,
       "aboveSma50": false,
@@ -4814,7 +5150,7 @@
         "addv": true
       },
       "pass": true,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "TSM",
@@ -4823,8 +5159,8 @@
       "dayPct": 0.5,
       "rsRating": 83,
       "marketCap": 2337090974791,
-      "averageDollarVolume20": 4206911464.65,
-      "lastDollarVolume": 3558442593.81,
+      "averageDollarVolume20": 4207143271.28,
+      "lastDollarVolume": 3563078726.42,
       "volumeMultiple": 0.85,
       "aboveSma5": true,
       "aboveSma20": true,
@@ -4840,7 +5176,7 @@
         "addv": true
       },
       "pass": true,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "APH",
@@ -4849,8 +5185,8 @@
       "dayPct": 0.63,
       "rsRating": 81,
       "marketCap": 207363157798,
-      "averageDollarVolume20": 996225967.61,
-      "lastDollarVolume": 1175102915.78,
+      "averageDollarVolume20": 996380306.03,
+      "lastDollarVolume": 1178189684.24,
       "volumeMultiple": 1.18,
       "aboveSma5": true,
       "aboveSma20": true,
@@ -4866,7 +5202,7 @@
         "addv": true
       },
       "pass": true,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "ABBV",
@@ -4875,8 +5211,8 @@
       "dayPct": 0.73,
       "rsRating": 80,
       "marketCap": 467119783117,
-      "averageDollarVolume20": 1075649435.16,
-      "lastDollarVolume": 1169874812.92,
+      "averageDollarVolume20": 1076020882.44,
+      "lastDollarVolume": 1177303758.6,
       "volumeMultiple": 1.09,
       "aboveSma5": true,
       "aboveSma20": true,
@@ -4892,7 +5228,7 @@
         "addv": true
       },
       "pass": true,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "BIIB",
@@ -4901,8 +5237,8 @@
       "dayPct": 0.48,
       "rsRating": 80,
       "marketCap": 33628809945,
-      "averageDollarVolume20": 215021806.67,
-      "lastDollarVolume": 300436688.22,
+      "averageDollarVolume20": 215054635.12,
+      "lastDollarVolume": 301093257.21,
       "volumeMultiple": 1.4,
       "aboveSma5": true,
       "aboveSma20": true,
@@ -4918,7 +5254,7 @@
         "addv": true
       },
       "pass": true,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "NVDA",
@@ -4927,8 +5263,8 @@
       "dayPct": 1.68,
       "rsRating": 80,
       "marketCap": 5424187000000,
-      "averageDollarVolume20": 25222350448.72,
-      "lastDollarVolume": 32332640345.77,
+      "averageDollarVolume20": 25226977473.26,
+      "lastDollarVolume": 32393828584.39,
       "volumeMultiple": 1.28,
       "aboveSma5": true,
       "aboveSma20": true,
@@ -4944,7 +5280,7 @@
         "addv": true
       },
       "pass": true,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "ARGX",
@@ -4953,8 +5289,8 @@
       "dayPct": 1.33,
       "rsRating": 79,
       "marketCap": 59548720407,
-      "averageDollarVolume20": 240068563.24,
-      "lastDollarVolume": 257310823.75,
+      "averageDollarVolume20": 240070750.81,
+      "lastDollarVolume": 257354575,
       "volumeMultiple": 1.07,
       "aboveSma5": true,
       "aboveSma20": false,
@@ -4970,7 +5306,7 @@
         "addv": true
       },
       "pass": true,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "IONQ",
@@ -4979,9 +5315,9 @@
       "dayPct": -1.98,
       "rsRating": 79,
       "marketCap": 17327985241,
-      "averageDollarVolume20": 1006839961.54,
-      "lastDollarVolume": 1554298659.66,
-      "volumeMultiple": 1.54,
+      "averageDollarVolume20": 1007233979.75,
+      "lastDollarVolume": 1557339951.97,
+      "volumeMultiple": 1.55,
       "aboveSma5": true,
       "aboveSma20": true,
       "aboveSma50": true,
@@ -4996,7 +5332,7 @@
         "addv": true
       },
       "pass": true,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "AAPL",
@@ -5005,9 +5341,9 @@
       "dayPct": -0.78,
       "rsRating": 75,
       "marketCap": 4977636972600,
-      "averageDollarVolume20": 14038056024.88,
-      "lastDollarVolume": 10985759873.86,
-      "volumeMultiple": 0.78,
+      "averageDollarVolume20": 14043363548.62,
+      "lastDollarVolume": 11074038280.26,
+      "volumeMultiple": 0.79,
       "aboveSma5": false,
       "aboveSma20": true,
       "aboveSma50": true,
@@ -5022,7 +5358,7 @@
         "addv": true
       },
       "pass": true,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "COIN",
@@ -5031,8 +5367,8 @@
       "dayPct": -1.7,
       "rsRating": 66,
       "marketCap": 51477222047,
-      "averageDollarVolume20": 1836278869.66,
-      "lastDollarVolume": 1276984380.27,
+      "averageDollarVolume20": 1836604906.4,
+      "lastDollarVolume": 1280773575.16,
       "volumeMultiple": 0.7,
       "aboveSma5": false,
       "aboveSma20": true,
@@ -5048,7 +5384,7 @@
         "addv": true
       },
       "pass": true,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "AMD",
@@ -5057,9 +5393,9 @@
       "dayPct": -3.61,
       "rsRating": 99,
       "marketCap": 1029487735736,
-      "averageDollarVolume20": 11984548796.12,
-      "lastDollarVolume": 13294116185.34,
-      "volumeMultiple": 1.11,
+      "averageDollarVolume20": 11989536182.54,
+      "lastDollarVolume": 13370404477.6,
+      "volumeMultiple": 1.12,
       "aboveSma5": false,
       "aboveSma20": true,
       "aboveSma50": true,
@@ -5074,7 +5410,7 @@
         "addv": true
       },
       "pass": false,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "CRWD",
@@ -5083,8 +5419,8 @@
       "dayPct": 2.82,
       "rsRating": 99,
       "marketCap": 258164691713,
-      "averageDollarVolume20": 2795673242.19,
-      "lastDollarVolume": 2316834808.5,
+      "averageDollarVolume20": 2795909330.17,
+      "lastDollarVolume": 2318757925,
       "volumeMultiple": 0.83,
       "aboveSma5": true,
       "aboveSma20": true,
@@ -5100,7 +5436,7 @@
         "addv": true
       },
       "pass": false,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "MRNA",
@@ -5109,9 +5445,9 @@
       "dayPct": -0.8,
       "rsRating": 99,
       "marketCap": 79400033604,
-      "averageDollarVolume20": 2459471807.02,
-      "lastDollarVolume": 2527231158.92,
-      "volumeMultiple": 1.03,
+      "averageDollarVolume20": 2464840431.47,
+      "lastDollarVolume": 2626230799.75,
+      "volumeMultiple": 1.07,
       "aboveSma5": true,
       "aboveSma20": true,
       "aboveSma50": true,
@@ -5126,7 +5462,7 @@
         "addv": true
       },
       "pass": false,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "OKTA",
@@ -5135,8 +5471,8 @@
       "dayPct": 3.58,
       "rsRating": 99,
       "marketCap": 34123296936,
-      "averageDollarVolume20": 761629363.19,
-      "lastDollarVolume": 732587072.66,
+      "averageDollarVolume20": 761645133.23,
+      "lastDollarVolume": 732902473.45,
       "volumeMultiple": 0.96,
       "aboveSma5": true,
       "aboveSma20": true,
@@ -5152,7 +5488,7 @@
         "addv": true
       },
       "pass": false,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "P",
@@ -5161,15 +5497,15 @@
       "dayPct": 2.7,
       "rsRating": 99,
       "marketCap": 41986633626,
-      "averageDollarVolume20": 789063776.56,
-      "lastDollarVolume": 594589607.55,
+      "averageDollarVolume20": 789071061.78,
+      "lastDollarVolume": 594735311.95,
       "volumeMultiple": 0.75,
       "aboveSma5": true,
       "aboveSma20": true,
       "aboveSma50": true,
       "aboveSma200": true,
-      "atrPct": 5.36,
-      "atr50Multiple": 6.18,
+      "atrPct": 5.38,
+      "atr50Multiple": 6.15,
       "checks": {
         "rs": true,
         "sma200": true,
@@ -5178,7 +5514,7 @@
         "addv": true
       },
       "pass": false,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "TWST",
@@ -5187,14 +5523,14 @@
       "dayPct": -1.77,
       "rsRating": 99,
       "marketCap": 12121843642,
-      "averageDollarVolume20": 306359553.55,
-      "lastDollarVolume": 394535595.01,
+      "averageDollarVolume20": 306360038.47,
+      "lastDollarVolume": 394545293.41,
       "volumeMultiple": 1.29,
       "aboveSma5": true,
       "aboveSma20": true,
       "aboveSma50": true,
       "aboveSma200": true,
-      "atrPct": 6.2,
+      "atrPct": 6.21,
       "atr50Multiple": 6.5,
       "checks": {
         "rs": true,
@@ -5204,7 +5540,7 @@
         "addv": true
       },
       "pass": false,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "TXG",
@@ -5213,15 +5549,15 @@
       "dayPct": 3.26,
       "rsRating": 99,
       "marketCap": 11167256009,
-      "averageDollarVolume20": 210999730.31,
-      "lastDollarVolume": 298035697.5,
+      "averageDollarVolume20": 211005327.94,
+      "lastDollarVolume": 298147650,
       "volumeMultiple": 1.41,
       "aboveSma5": true,
       "aboveSma20": true,
       "aboveSma50": true,
       "aboveSma200": true,
-      "atrPct": 5.67,
-      "atr50Multiple": 7.84,
+      "atrPct": 5.68,
+      "atr50Multiple": 7.83,
       "checks": {
         "rs": true,
         "sma200": true,
@@ -5230,7 +5566,7 @@
         "addv": true
       },
       "pass": false,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "ILMN",
@@ -5239,15 +5575,15 @@
       "dayPct": 0.7,
       "rsRating": 98,
       "marketCap": 40770000000,
-      "averageDollarVolume20": 955313475.68,
-      "lastDollarVolume": 808436717.15,
+      "averageDollarVolume20": 955395222.41,
+      "lastDollarVolume": 810071651.82,
       "volumeMultiple": 0.85,
       "aboveSma5": true,
       "aboveSma20": true,
       "aboveSma50": true,
       "aboveSma200": true,
-      "atrPct": 4.24,
-      "atr50Multiple": 6.59,
+      "atrPct": 4.26,
+      "atr50Multiple": 6.57,
       "checks": {
         "rs": true,
         "sma200": true,
@@ -5256,7 +5592,7 @@
         "addv": true
       },
       "pass": false,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "NTRA",
@@ -5265,9 +5601,9 @@
       "dayPct": -0.19,
       "rsRating": 98,
       "marketCap": 59468118775,
-      "averageDollarVolume20": 540257674.49,
-      "lastDollarVolume": 671822913.81,
-      "volumeMultiple": 1.24,
+      "averageDollarVolume20": 540520198.44,
+      "lastDollarVolume": 677073392.94,
+      "volumeMultiple": 1.25,
       "aboveSma5": true,
       "aboveSma20": true,
       "aboveSma50": true,
@@ -5282,7 +5618,7 @@
         "addv": true
       },
       "pass": false,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "RBRK",
@@ -5291,15 +5627,15 @@
       "dayPct": 3.23,
       "rsRating": 98,
       "marketCap": 22710200635,
-      "averageDollarVolume20": 339589549.64,
-      "lastDollarVolume": 302858629.07,
-      "volumeMultiple": 0.89,
+      "averageDollarVolume20": 339814800.55,
+      "lastDollarVolume": 305150737.12,
+      "volumeMultiple": 0.9,
       "aboveSma5": true,
       "aboveSma20": true,
       "aboveSma50": true,
       "aboveSma200": true,
-      "atrPct": 5.16,
-      "atr50Multiple": 4.2,
+      "atrPct": 5.19,
+      "atr50Multiple": 4.18,
       "checks": {
         "rs": true,
         "sma200": true,
@@ -5308,7 +5644,7 @@
         "addv": true
       },
       "pass": false,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "TWLO",
@@ -5317,8 +5653,8 @@
       "dayPct": 4.05,
       "rsRating": 98,
       "marketCap": 42356045676,
-      "averageDollarVolume20": 612392148.88,
-      "lastDollarVolume": 782377533.07,
+      "averageDollarVolume20": 612451783.33,
+      "lastDollarVolume": 783570222,
       "volumeMultiple": 1.28,
       "aboveSma5": false,
       "aboveSma20": true,
@@ -5334,7 +5670,7 @@
         "addv": true
       },
       "pass": false,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "HALO",
@@ -5343,8 +5679,8 @@
       "dayPct": -0.89,
       "rsRating": 96,
       "marketCap": 12927422200,
-      "averageDollarVolume20": 253164945.14,
-      "lastDollarVolume": 252501513.19,
+      "averageDollarVolume20": 253164922.56,
+      "lastDollarVolume": 252501061.63,
       "volumeMultiple": 1,
       "aboveSma5": false,
       "aboveSma20": true,
@@ -5360,7 +5696,7 @@
         "addv": true
       },
       "pass": false,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "INSW",
@@ -5369,8 +5705,8 @@
       "dayPct": 2.53,
       "rsRating": 96,
       "marketCap": 5232487694,
-      "averageDollarVolume20": 83834095.18,
-      "lastDollarVolume": 73497214.76,
+      "averageDollarVolume20": 83834192.66,
+      "lastDollarVolume": 73499164.34,
       "volumeMultiple": 0.88,
       "aboveSma5": true,
       "aboveSma20": true,
@@ -5386,7 +5722,7 @@
         "addv": false
       },
       "pass": false,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "FRO",
@@ -5395,8 +5731,8 @@
       "dayPct": 0.78,
       "rsRating": 95,
       "marketCap": 10625790492,
-      "averageDollarVolume20": 182476553.62,
-      "lastDollarVolume": 161305461.28,
+      "averageDollarVolume20": 182476928.8,
+      "lastDollarVolume": 161312964.88,
       "volumeMultiple": 0.88,
       "aboveSma5": true,
       "aboveSma20": true,
@@ -5412,7 +5748,7 @@
         "addv": true
       },
       "pass": false,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "TEM",
@@ -5421,9 +5757,9 @@
       "dayPct": 0.08,
       "rsRating": 95,
       "marketCap": 15434088737,
-      "averageDollarVolume20": 500826382.1,
-      "lastDollarVolume": 529998894.85,
-      "volumeMultiple": 1.06,
+      "averageDollarVolume20": 501095952.79,
+      "lastDollarVolume": 534021647.49,
+      "volumeMultiple": 1.07,
       "aboveSma5": true,
       "aboveSma20": true,
       "aboveSma50": true,
@@ -5438,7 +5774,7 @@
         "addv": true
       },
       "pass": false,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "RVTY",
@@ -5447,8 +5783,8 @@
       "dayPct": -0.06,
       "rsRating": 94,
       "marketCap": 16861821055,
-      "averageDollarVolume20": 302753992.91,
-      "lastDollarVolume": 223236713.18,
+      "averageDollarVolume20": 302754045.76,
+      "lastDollarVolume": 223237770.32,
       "volumeMultiple": 0.74,
       "aboveSma5": true,
       "aboveSma20": true,
@@ -5464,7 +5800,7 @@
         "addv": true
       },
       "pass": false,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "DHT",
@@ -5473,14 +5809,14 @@
       "dayPct": 0.55,
       "rsRating": 92,
       "marketCap": 3507486854,
-      "averageDollarVolume20": 87589969.81,
-      "lastDollarVolume": 81183670.89,
-      "volumeMultiple": 0.93,
+      "averageDollarVolume20": 87824745,
+      "lastDollarVolume": 81203008.59,
+      "volumeMultiple": 0.92,
       "aboveSma5": true,
       "aboveSma20": true,
       "aboveSma50": true,
       "aboveSma200": true,
-      "atrPct": 3.53,
+      "atrPct": 3.54,
       "atr50Multiple": 3.64,
       "checks": {
         "rs": true,
@@ -5490,7 +5826,7 @@
         "addv": false
       },
       "pass": false,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "TNK",
@@ -5499,8 +5835,8 @@
       "dayPct": 1.74,
       "rsRating": 91,
       "marketCap": 3258947722,
-      "averageDollarVolume20": 50287970.57,
-      "lastDollarVolume": 29583099.33,
+      "averageDollarVolume20": 50302370.14,
+      "lastDollarVolume": 29871090.71,
       "volumeMultiple": 0.59,
       "aboveSma5": true,
       "aboveSma20": false,
@@ -5516,7 +5852,7 @@
         "addv": false
       },
       "pass": false,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "TMO",
@@ -5525,14 +5861,14 @@
       "dayPct": 0.53,
       "rsRating": 90,
       "marketCap": 249579418050,
-      "averageDollarVolume20": 1416289730.46,
-      "lastDollarVolume": 1292162250.91,
+      "averageDollarVolume20": 1416301300.59,
+      "lastDollarVolume": 1292393653.5,
       "volumeMultiple": 0.91,
       "aboveSma5": true,
       "aboveSma20": true,
       "aboveSma50": true,
       "aboveSma200": true,
-      "atrPct": 2.35,
+      "atrPct": 2.36,
       "atr50Multiple": 5.02,
       "checks": {
         "rs": true,
@@ -5542,7 +5878,7 @@
         "addv": true
       },
       "pass": false,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "MSTR",
@@ -5551,8 +5887,8 @@
       "dayPct": -0.93,
       "rsRating": 86,
       "marketCap": 60942046366,
-      "averageDollarVolume20": 3482274139.52,
-      "lastDollarVolume": 2538800186.44,
+      "averageDollarVolume20": 3483307584.6,
+      "lastDollarVolume": 2548842218.1,
       "volumeMultiple": 0.73,
       "aboveSma5": false,
       "aboveSma20": true,
@@ -5568,7 +5904,7 @@
         "addv": true
       },
       "pass": false,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "SBLK",
@@ -5577,8 +5913,8 @@
       "dayPct": -0.81,
       "rsRating": 85,
       "marketCap": 3294600631,
-      "averageDollarVolume20": 58801962.75,
-      "lastDollarVolume": 39254586.08,
+      "averageDollarVolume20": 58802333.4,
+      "lastDollarVolume": 39261998.98,
       "volumeMultiple": 0.67,
       "aboveSma5": false,
       "aboveSma20": false,
@@ -5594,7 +5930,7 @@
         "addv": false
       },
       "pass": false,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "CRCL",
@@ -5603,8 +5939,8 @@
       "dayPct": -3.6,
       "rsRating": 80,
       "marketCap": 22594953409,
-      "averageDollarVolume20": 1406758436.15,
-      "lastDollarVolume": 831232917.77,
+      "averageDollarVolume20": 1407490973.74,
+      "lastDollarVolume": 834945569.7,
       "volumeMultiple": 0.59,
       "aboveSma5": false,
       "aboveSma20": false,
@@ -5620,7 +5956,7 @@
         "addv": true
       },
       "pass": false,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "GSL",
@@ -5629,8 +5965,8 @@
       "dayPct": -1.35,
       "rsRating": 74,
       "marketCap": 1592255757,
-      "averageDollarVolume20": 13073230.78,
-      "lastDollarVolume": 16957750.41,
+      "averageDollarVolume20": 13073267.95,
+      "lastDollarVolume": 16958493.82,
       "volumeMultiple": 1.3,
       "aboveSma5": false,
       "aboveSma20": false,
@@ -5646,7 +5982,7 @@
         "addv": false
       },
       "pass": false,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "META",
@@ -5655,9 +5991,9 @@
       "dayPct": -4.79,
       "rsRating": 74,
       "marketCap": 1914858529084,
-      "averageDollarVolume20": 16051179144.87,
-      "lastDollarVolume": 19772113880.85,
-      "volumeMultiple": 1.23,
+      "averageDollarVolume20": 16056956296.26,
+      "lastDollarVolume": 19832334734.68,
+      "volumeMultiple": 1.24,
       "aboveSma5": false,
       "aboveSma20": true,
       "aboveSma50": true,
@@ -5672,7 +6008,7 @@
         "addv": true
       },
       "pass": false,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "RXRX",
@@ -5681,8 +6017,8 @@
       "dayPct": -1.07,
       "rsRating": 74,
       "marketCap": null,
-      "averageDollarVolume20": 70695824.42,
-      "lastDollarVolume": 47378141.71,
+      "averageDollarVolume20": 70709073.57,
+      "lastDollarVolume": 47463230.61,
       "volumeMultiple": 0.67,
       "aboveSma5": false,
       "aboveSma20": true,
@@ -5698,7 +6034,7 @@
         "addv": false
       },
       "pass": false,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "STNG",
@@ -5707,8 +6043,8 @@
       "dayPct": 2.09,
       "rsRating": 73,
       "marketCap": 4218149757,
-      "averageDollarVolume20": 83481936.3,
-      "lastDollarVolume": 80039097.91,
+      "averageDollarVolume20": 83481836.47,
+      "lastDollarVolume": 80037101.35,
       "volumeMultiple": 0.96,
       "aboveSma5": true,
       "aboveSma20": false,
@@ -5724,7 +6060,7 @@
         "addv": false
       },
       "pass": false,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "RKLB",
@@ -5733,8 +6069,8 @@
       "dayPct": -2.38,
       "rsRating": 58,
       "marketCap": 46422832699,
-      "averageDollarVolume20": 1325812269.06,
-      "lastDollarVolume": 1077172220.74,
+      "averageDollarVolume20": 1326146004.04,
+      "lastDollarVolume": 1079572610.51,
       "volumeMultiple": 0.81,
       "aboveSma5": false,
       "aboveSma20": true,
@@ -5750,7 +6086,7 @@
         "addv": true
       },
       "pass": false,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "AMZN",
@@ -5759,8 +6095,8 @@
       "dayPct": -1.41,
       "rsRating": 52,
       "marketCap": 2693018909521,
-      "averageDollarVolume20": 8729770463.38,
-      "lastDollarVolume": 7846494063.59,
+      "averageDollarVolume20": 8731332281.29,
+      "lastDollarVolume": 7865846129.96,
       "volumeMultiple": 0.9,
       "aboveSma5": false,
       "aboveSma20": false,
@@ -5776,7 +6112,7 @@
         "addv": true
       },
       "pass": false,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "GOOGL",
@@ -5785,9 +6121,9 @@
       "dayPct": -0.34,
       "rsRating": 45,
       "marketCap": 4206141600000,
-      "averageDollarVolume20": 9104076667.79,
-      "lastDollarVolume": 6564438486,
-      "volumeMultiple": 0.72,
+      "averageDollarVolume20": 9107055595.36,
+      "lastDollarVolume": 6615040725,
+      "volumeMultiple": 0.73,
       "aboveSma5": false,
       "aboveSma20": true,
       "aboveSma50": false,
@@ -5802,7 +6138,7 @@
         "addv": true
       },
       "pass": false,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "AVGO",
@@ -5811,9 +6147,9 @@
       "dayPct": -0.92,
       "rsRating": 27,
       "marketCap": 1684184352671,
-      "averageDollarVolume20": 9858624900.71,
-      "lastDollarVolume": 7429537560.43,
-      "volumeMultiple": 0.75,
+      "averageDollarVolume20": 9862030755.88,
+      "lastDollarVolume": 7485447437.84,
+      "volumeMultiple": 0.76,
       "aboveSma5": false,
       "aboveSma20": false,
       "aboveSma50": false,
@@ -5828,7 +6164,7 @@
         "addv": true
       },
       "pass": false,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "TSLA",
@@ -5837,9 +6173,9 @@
       "dayPct": -3.94,
       "rsRating": 24,
       "marketCap": 1469666080781,
-      "averageDollarVolume20": 14614524293.52,
-      "lastDollarVolume": 13707951319.03,
-      "volumeMultiple": 0.94,
+      "averageDollarVolume20": 14633734603.28,
+      "lastDollarVolume": 14064621375.31,
+      "volumeMultiple": 0.96,
       "aboveSma5": false,
       "aboveSma20": false,
       "aboveSma50": true,
@@ -5854,17 +6190,17 @@
         "addv": true
       },
       "pass": false,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "AMKR",
       "asOf": "2026-09-28",
       "price": 53.18,
       "dayPct": -0.8,
-      "rsRating": 21,
+      "rsRating": 20,
       "marketCap": 13319537024,
-      "averageDollarVolume20": 194528184.59,
-      "lastDollarVolume": 181801627.66,
+      "averageDollarVolume20": 194530819.66,
+      "lastDollarVolume": 181854329.04,
       "volumeMultiple": 0.93,
       "aboveSma5": false,
       "aboveSma20": true,
@@ -5880,7 +6216,7 @@
         "addv": true
       },
       "pass": false,
-      "historyDays": 296
+      "historyDays": 295
     },
     {
       "ticker": "SKHY",
@@ -5889,9 +6225,9 @@
       "dayPct": -5.03,
       "rsRating": null,
       "marketCap": 1396214751800,
-      "averageDollarVolume20": 3585748664.65,
-      "lastDollarVolume": 2733986875.52,
-      "volumeMultiple": 0.76,
+      "averageDollarVolume20": 3595851925.4,
+      "lastDollarVolume": 2929730610.51,
+      "volumeMultiple": 0.81,
       "aboveSma5": false,
       "aboveSma20": true,
       "aboveSma50": true,
@@ -5915,9 +6251,9 @@
       "dayPct": -2.16,
       "rsRating": null,
       "marketCap": 2018007119205,
-      "averageDollarVolume20": 13613246703.73,
-      "lastDollarVolume": 11879570679.06,
-      "volumeMultiple": 0.87,
+      "averageDollarVolume20": 13625568495.34,
+      "lastDollarVolume": 12100151060.54,
+      "volumeMultiple": 0.89,
       "aboveSma5": false,
       "aboveSma20": false,
       "aboveSma50": true,
@@ -5954,8 +6290,9 @@
       "momentum": 93.6,
       "trend": 100,
       "liquidity": 97,
-      "averageDollarVolume20": 2795673242,
+      "averageDollarVolume20": 2795909330,
       "highDistancePct": 1.75,
+      "sma10GapPct": 3.69,
       "sma20GapPct": 11.59,
       "sma50GapPct": 21.28,
       "sma200GapPct": 71.96,
@@ -5993,16 +6330,17 @@
       "momentum": 94.9,
       "trend": 100,
       "liquidity": 88,
-      "averageDollarVolume20": 955313476,
+      "averageDollarVolume20": 955395222,
       "highDistancePct": 2.18,
+      "sma10GapPct": 9.04,
       "sma20GapPct": 18.23,
       "sma50GapPct": 27.95,
       "sma200GapPct": 69.95,
       "sma50SlopePct": 9.81,
-      "atr": 11.53,
-      "atrPct": 4.24,
-      "atrMultiple20": 4.3,
-      "atrMultiple50": 6.59,
+      "atr": 11.57,
+      "atrPct": 4.26,
+      "atrMultiple20": 4.28,
+      "atrMultiple50": 6.57,
       "rs4wPct": 26.42,
       "rs13wPct": 46.43,
       "rs26wPct": 87.07,
@@ -6032,16 +6370,17 @@
       "momentum": 94.6,
       "trend": 100,
       "liquidity": 83,
-      "averageDollarVolume20": 789063777,
+      "averageDollarVolume20": 789071062,
       "highDistancePct": 1.53,
+      "sma10GapPct": 16.14,
       "sma20GapPct": 24.71,
       "sma50GapPct": 33.09,
       "sma200GapPct": 67.21,
       "sma50SlopePct": 13.59,
-      "atr": 6.93,
-      "atrPct": 5.36,
-      "atrMultiple20": 4.61,
-      "atrMultiple50": 6.18,
+      "atr": 6.96,
+      "atrPct": 5.38,
+      "atrMultiple20": 4.59,
+      "atrMultiple50": 6.15,
       "rs4wPct": 38.88,
       "rs13wPct": 72.69,
       "rs26wPct": 70.98,
@@ -6071,8 +6410,9 @@
       "momentum": 83.5,
       "trend": 100,
       "liquidity": 96,
-      "averageDollarVolume20": 2570185764,
+      "averageDollarVolume20": 2570545820,
       "highDistancePct": 1.7,
+      "sma10GapPct": 3.57,
       "sma20GapPct": 8.33,
       "sma50GapPct": 9.77,
       "sma200GapPct": 59.24,
@@ -6110,8 +6450,9 @@
       "momentum": 95.6,
       "trend": 100,
       "liquidity": 82,
-      "averageDollarVolume20": 761629363,
+      "averageDollarVolume20": 761645133,
       "highDistancePct": 4.86,
+      "sma10GapPct": 3.77,
       "sma20GapPct": 10.59,
       "sma50GapPct": 26.96,
       "sma200GapPct": 84.24,
@@ -6149,8 +6490,9 @@
       "momentum": 99.4,
       "trend": 100,
       "liquidity": 95,
-      "averageDollarVolume20": 2459471807,
+      "averageDollarVolume20": 2464840431,
       "highDistancePct": 2.66,
+      "sma10GapPct": 14.03,
       "sma20GapPct": 24.34,
       "sma50GapPct": 74.86,
       "sma200GapPct": 203.04,
@@ -6188,16 +6530,17 @@
       "momentum": 100,
       "trend": 100,
       "liquidity": 42,
-      "averageDollarVolume20": 210999730,
-      "highDistancePct": 1.55,
+      "averageDollarVolume20": 211005328,
+      "highDistancePct": 1.61,
+      "sma10GapPct": 11.41,
       "sma20GapPct": 22.72,
       "sma50GapPct": 44.46,
       "sma200GapPct": 166.08,
       "sma50SlopePct": 27.44,
       "atr": 5.02,
-      "atrPct": 5.67,
-      "atrMultiple20": 4.01,
-      "atrMultiple50": 7.84,
+      "atrPct": 5.68,
+      "atrMultiple20": 4,
+      "atrMultiple50": 7.83,
       "rs4wPct": 44.15,
       "rs13wPct": 136.97,
       "rs26wPct": 293.82,
@@ -6227,8 +6570,9 @@
       "momentum": 94.9,
       "trend": 100,
       "liquidity": 76,
-      "averageDollarVolume20": 540257674,
+      "averageDollarVolume20": 540520198,
       "highDistancePct": 1.34,
+      "sma10GapPct": 7.87,
       "sma20GapPct": 16.12,
       "sma50GapPct": 28.96,
       "sma200GapPct": 67.77,
@@ -6266,8 +6610,9 @@
       "momentum": 93.4,
       "trend": 100,
       "liquidity": 78,
-      "averageDollarVolume20": 612392149,
+      "averageDollarVolume20": 612451783,
       "highDistancePct": 5.83,
+      "sma10GapPct": 7.29,
       "sma20GapPct": 15.19,
       "sma50GapPct": 25.32,
       "sma200GapPct": 65.99,
@@ -6305,8 +6650,9 @@
       "momentum": 89.2,
       "trend": 100,
       "liquidity": 89,
-      "averageDollarVolume20": 1035987860,
+      "averageDollarVolume20": 1035990993,
       "highDistancePct": 3.66,
+      "sma10GapPct": 3.26,
       "sma20GapPct": 10.59,
       "sma50GapPct": 17.51,
       "sma200GapPct": 52.38,
@@ -6339,18 +6685,19 @@
       "asOf": "2026-09-28",
       "price": 204.41,
       "dayPct": 1.62,
-      "leaderScore": 85.7,
+      "leaderScore": 85.6,
       "modelRs": 84.85,
       "momentum": 84.8,
       "trend": 100,
-      "liquidity": 73,
-      "averageDollarVolume20": 500994012,
+      "liquidity": 72,
+      "averageDollarVolume20": 501003252,
       "highDistancePct": 2.22,
+      "sma10GapPct": 3.96,
       "sma20GapPct": 6.7,
       "sma50GapPct": 8.57,
       "sma200GapPct": 49.97,
       "sma50SlopePct": 7.05,
-      "atr": 7.68,
+      "atr": 7.69,
       "atrPct": 3.76,
       "atrMultiple20": 1.78,
       "atrMultiple50": 2.28,
@@ -6383,16 +6730,17 @@
       "momentum": 91.1,
       "trend": 100,
       "liquidity": 61,
-      "averageDollarVolume20": 339589550,
+      "averageDollarVolume20": 339814801,
       "highDistancePct": 2.61,
+      "sma10GapPct": 2.82,
       "sma20GapPct": 12.5,
       "sma50GapPct": 21.7,
       "sma200GapPct": 58.76,
       "sma50SlopePct": 9.74,
-      "atr": 5.84,
-      "atrPct": 5.16,
-      "atrMultiple20": 2.42,
-      "atrMultiple50": 4.2,
+      "atr": 5.87,
+      "atrPct": 5.19,
+      "atrMultiple20": 2.41,
+      "atrMultiple50": 4.18,
       "rs4wPct": 21.83,
       "rs13wPct": 52.35,
       "rs26wPct": 88.2,
@@ -6422,8 +6770,9 @@
       "momentum": 98.9,
       "trend": 100,
       "liquidity": 13,
-      "averageDollarVolume20": 126960322,
+      "averageDollarVolume20": 126972928,
       "highDistancePct": 1.33,
+      "sma10GapPct": 29.84,
       "sma20GapPct": 46.71,
       "sma50GapPct": 66.97,
       "sma200GapPct": 82.23,
@@ -6461,14 +6810,15 @@
       "momentum": 91.4,
       "trend": 100,
       "liquidity": 93,
-      "averageDollarVolume20": 1604100149,
+      "averageDollarVolume20": 1604169614,
       "highDistancePct": 4.6,
+      "sma10GapPct": 2.96,
       "sma20GapPct": 8.36,
       "sma50GapPct": 15.62,
       "sma200GapPct": 74.44,
       "sma50SlopePct": 9.53,
       "atr": 3.43,
-      "atrPct": 5.47,
+      "atrPct": 5.48,
       "atrMultiple20": 1.53,
       "atrMultiple50": 2.85,
       "rs4wPct": 20.32,
@@ -6500,8 +6850,9 @@
       "momentum": 77.9,
       "trend": 100,
       "liquidity": 82,
-      "averageDollarVolume20": 737306996,
+      "averageDollarVolume20": 737311484,
       "highDistancePct": 2.78,
+      "sma10GapPct": 1.15,
       "sma20GapPct": 5.49,
       "sma50GapPct": 8.94,
       "sma200GapPct": 51.17,
@@ -6539,8 +6890,9 @@
       "momentum": 89.1,
       "trend": 100,
       "liquidity": 93,
-      "averageDollarVolume20": 1559388525,
+      "averageDollarVolume20": 1559401459,
       "highDistancePct": 7.03,
+      "sma10GapPct": -0.92,
       "sma20GapPct": 1.31,
       "sma50GapPct": 11.96,
       "sma200GapPct": 53.19,
@@ -6578,8 +6930,9 @@
       "momentum": 87.2,
       "trend": 100,
       "liquidity": 55,
-      "averageDollarVolume20": 302753993,
+      "averageDollarVolume20": 302754046,
       "highDistancePct": 0.81,
+      "sma10GapPct": 3.59,
       "sma20GapPct": 10.65,
       "sma50GapPct": 21.3,
       "sma200GapPct": 43.59,
@@ -6617,8 +6970,9 @@
       "momentum": 84.1,
       "trend": 100,
       "liquidity": 58,
-      "averageDollarVolume20": 316481887,
+      "averageDollarVolume20": 316481807,
       "highDistancePct": 3.37,
+      "sma10GapPct": 0.11,
       "sma20GapPct": 4.67,
       "sma50GapPct": 8.67,
       "sma200GapPct": 44.84,
@@ -6656,8 +7010,9 @@
       "momentum": 84.2,
       "trend": 100,
       "liquidity": 36,
-      "averageDollarVolume20": 189459909,
+      "averageDollarVolume20": 189459482,
       "highDistancePct": 2.4,
+      "sma10GapPct": 6.11,
       "sma20GapPct": 10.22,
       "sma50GapPct": 16.95,
       "sma200GapPct": 35.73,
@@ -6695,14 +7050,15 @@
       "momentum": 98.1,
       "trend": 100,
       "liquidity": 56,
-      "averageDollarVolume20": 306359554,
+      "averageDollarVolume20": 306360038,
       "highDistancePct": 4.4,
+      "sma10GapPct": 9.57,
       "sma20GapPct": 22.3,
       "sma50GapPct": 40.32,
       "sma200GapPct": 142.99,
       "sma50SlopePct": 19.93,
       "atr": 11.14,
-      "atrPct": 6.2,
+      "atrPct": 6.21,
       "atrMultiple20": 3.59,
       "atrMultiple50": 6.5,
       "rs4wPct": 27.34,
@@ -6734,14 +7090,15 @@
       "momentum": 77.9,
       "trend": 100,
       "liquidity": 52,
-      "averageDollarVolume20": 275705448,
+      "averageDollarVolume20": 275705743,
       "highDistancePct": 2.87,
+      "sma10GapPct": 4.12,
       "sma20GapPct": 4.15,
       "sma50GapPct": 8.93,
       "sma200GapPct": 41.61,
       "sma50SlopePct": 10.34,
       "atr": 10.09,
-      "atrPct": 3.42,
+      "atrPct": 3.43,
       "atrMultiple20": 1.21,
       "atrMultiple50": 2.61,
       "rs4wPct": 1.3,
@@ -6773,8 +7130,9 @@
       "momentum": 83.3,
       "trend": 100,
       "liquidity": 99,
-      "averageDollarVolume20": 11984548796,
+      "averageDollarVolume20": 11989536183,
       "highDistancePct": 4.87,
+      "sma10GapPct": 4.03,
       "sma20GapPct": 13.57,
       "sma50GapPct": 19.91,
       "sma200GapPct": 65.77,
@@ -6812,8 +7170,9 @@
       "momentum": 90.9,
       "trend": 100,
       "liquidity": 98,
-      "averageDollarVolume20": 6013006237,
+      "averageDollarVolume20": 6020173222,
       "highDistancePct": 8.75,
+      "sma10GapPct": -2.61,
       "sma20GapPct": 1.85,
       "sma50GapPct": 13.53,
       "sma200GapPct": 91.08,
@@ -6846,13 +7205,14 @@
       "asOf": "2026-09-28",
       "price": 112.89,
       "dayPct": -0.89,
-      "leaderScore": 75,
+      "leaderScore": 74.9,
       "modelRs": 83.1,
       "momentum": 85.9,
       "trend": 100,
       "liquidity": 50,
-      "averageDollarVolume20": 253164945,
+      "averageDollarVolume20": 253164923,
       "highDistancePct": 3.39,
+      "sma10GapPct": 0.99,
       "sma20GapPct": 2.6,
       "sma50GapPct": 12.39,
       "sma200GapPct": 45.88,
@@ -6890,13 +7250,14 @@
       "momentum": 87,
       "trend": 100,
       "liquidity": 34,
-      "averageDollarVolume20": 182476554,
+      "averageDollarVolume20": 182476929,
       "highDistancePct": 8.35,
+      "sma10GapPct": -1.79,
       "sma20GapPct": 3.74,
       "sma50GapPct": 16.46,
       "sma200GapPct": 48.68,
       "sma50SlopePct": 11.84,
-      "atr": 1.66,
+      "atr": 1.67,
       "atrPct": 3.46,
       "atrMultiple20": 1.08,
       "atrMultiple50": 4.75,
@@ -6929,8 +7290,9 @@
       "momentum": 84.9,
       "trend": 80,
       "liquidity": 54,
-      "averageDollarVolume20": 299508531,
+      "averageDollarVolume20": 300364206,
       "highDistancePct": 9.95,
+      "sma10GapPct": 0.61,
       "sma20GapPct": -0.25,
       "sma50GapPct": 5.66,
       "sma200GapPct": 58.41,
@@ -6968,13 +7330,14 @@
       "momentum": 85.3,
       "trend": 80,
       "liquidity": 90,
-      "averageDollarVolume20": 1259087276,
+      "averageDollarVolume20": 1259090761,
       "highDistancePct": 9.66,
+      "sma10GapPct": -3.27,
       "sma20GapPct": -1.75,
       "sma50GapPct": 8.87,
       "sma200GapPct": 52.05,
       "sma50SlopePct": 16.27,
-      "atr": 14.45,
+      "atr": 14.46,
       "atrPct": 3.71,
       "atrMultiple20": -0.47,
       "atrMultiple50": 2.39,
@@ -7007,8 +7370,9 @@
       "momentum": 92.3,
       "trend": 100,
       "liquidity": 10,
-      "averageDollarVolume20": 119123784,
+      "averageDollarVolume20": 119123815,
       "highDistancePct": 7.05,
+      "sma10GapPct": 0.04,
       "sma20GapPct": 3.31,
       "sma50GapPct": 17.26,
       "sma200GapPct": 76.4,
@@ -7046,8 +7410,9 @@
       "momentum": 78.8,
       "trend": 80,
       "liquidity": 86,
-      "averageDollarVolume20": 910670342,
+      "averageDollarVolume20": 910670063,
       "highDistancePct": 8.51,
+      "sma10GapPct": -3.12,
       "sma20GapPct": -2.04,
       "sma50GapPct": 7.33,
       "sma200GapPct": 40.84,
@@ -7085,8 +7450,9 @@
       "momentum": 87.2,
       "trend": 80,
       "liquidity": 58,
-      "averageDollarVolume20": 319090324,
+      "averageDollarVolume20": 319093590,
       "highDistancePct": 10.3,
+      "sma10GapPct": -3.43,
       "sma20GapPct": -1.76,
       "sma50GapPct": 8.74,
       "sma200GapPct": 53.32,
@@ -7133,12 +7499,939 @@
       "url": "https://eoddata.com/stocklist/INDEX/N.htm"
     },
     {
+      "name": "iShares IWM",
+      "role": "Russell 2000 ETF holdings proxy for IWM ADR",
+      "url": "https://www.ishares.com/us/products/239710/ishares-russell-2000-etf"
+    },
+    {
       "name": "Wikipedia S&P 500 constituents",
       "role": "S&P 500 membership for Trend Start universe",
       "url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies"
     }
   ],
   "watchlistAsOf": "2026-09-28",
-  "watchlistGeneratedAt": "2026-09-28T21:44:47.940Z",
-  "bestGeneratedAt": "2026-09-28T21:44:47.940Z"
+  "watchlistGeneratedAt": "2026-09-29T06:53:33.137Z",
+  "bestGeneratedAt": "2026-09-29T06:53:33.137Z",
+  "weeklyPulse": null,
+  "etfPulse": {
+    "asOf": "2026-09-28",
+    "source": "Yahoo Finance adjusted OHLCV; raw close for daily return",
+    "groups": {
+      "indexSector": [
+        {
+          "symbol": "XLK",
+          "asOf": "2026-09-28",
+          "historyDays": 310,
+          "price": 194.53,
+          "dailyPct": -0.89,
+          "weekPct": -0.16,
+          "monthPct": 4.88,
+          "threeMonthPct": 5.52,
+          "relative3mPct": 0.95,
+          "atr": 3.32,
+          "atrPct": 1.71,
+          "atrMultiple50": 3.13,
+          "sma5": 195.42,
+          "sma20": 188.71,
+          "sma50": 184.66,
+          "sma5GapPct": -0.46,
+          "sma20GapPct": 3.09,
+          "sma50GapPct": 5.34,
+          "weightedRoc": 21.08,
+          "assetType": "주식 편입",
+          "holdingsUrl": "https://stockanalysis.com/etf/xlk/holdings/",
+          "rsGroup": 99,
+          "rank": 1,
+          "rsUniverseCount": 15
+        },
+        {
+          "symbol": "XLE",
+          "asOf": "2026-09-28",
+          "historyDays": 310,
+          "price": 62.1,
+          "dailyPct": 0.1,
+          "weekPct": -0.58,
+          "monthPct": -0.34,
+          "threeMonthPct": 15.49,
+          "relative3mPct": 10.49,
+          "atr": 1.22,
+          "atrPct": 1.96,
+          "atrMultiple50": 0.48,
+          "sma5": 62.18,
+          "sma20": 63.7,
+          "sma50": 61.52,
+          "sma5GapPct": -0.13,
+          "sma20GapPct": -2.51,
+          "sma50GapPct": 0.94,
+          "weightedRoc": 12.01,
+          "assetType": "주식 편입",
+          "holdingsUrl": "https://stockanalysis.com/etf/xle/holdings/",
+          "rsGroup": 93,
+          "rank": 2,
+          "rsUniverseCount": 15
+        },
+        {
+          "symbol": "XLV",
+          "asOf": "2026-09-28",
+          "historyDays": 310,
+          "price": 171.26,
+          "dailyPct": 0.33,
+          "weekPct": 1.33,
+          "monthPct": 0.44,
+          "threeMonthPct": 10.46,
+          "relative3mPct": 5.68,
+          "atr": 2.4,
+          "atrPct": 1.4,
+          "atrMultiple50": 1.67,
+          "sma5": 170.1,
+          "sma20": 168.77,
+          "sma50": 167.35,
+          "sma5GapPct": 0.68,
+          "sma20GapPct": 1.47,
+          "sma50GapPct": 2.34,
+          "weightedRoc": 11.82,
+          "assetType": "주식 편입",
+          "holdingsUrl": "https://stockanalysis.com/etf/xlv/holdings/",
+          "rsGroup": 87,
+          "rank": 3,
+          "rsUniverseCount": 15
+        },
+        {
+          "symbol": "QQQ",
+          "asOf": "2026-09-28",
+          "historyDays": 310,
+          "price": 736.53,
+          "dailyPct": -1.07,
+          "weekPct": -0.67,
+          "monthPct": 2.91,
+          "threeMonthPct": 2.92,
+          "relative3mPct": -1.53,
+          "atr": 9.81,
+          "atrPct": 1.33,
+          "atrMultiple50": 2.5,
+          "sma5": 742.16,
+          "sma20": 721.36,
+          "sma50": 712.83,
+          "sma5GapPct": -0.76,
+          "sma20GapPct": 2.1,
+          "sma50GapPct": 3.33,
+          "weightedRoc": 11.32,
+          "assetType": "주식 편입",
+          "holdingsUrl": "https://stockanalysis.com/etf/qqq/holdings/",
+          "rsGroup": 80,
+          "rank": 4,
+          "rsUniverseCount": 15
+        },
+        {
+          "symbol": "QQQE",
+          "asOf": "2026-09-28",
+          "historyDays": 310,
+          "price": 119.96,
+          "dailyPct": -0.88,
+          "weekPct": -0.47,
+          "monthPct": -1.75,
+          "threeMonthPct": 0.53,
+          "relative3mPct": -3.82,
+          "atr": 1.33,
+          "atrPct": 1.11,
+          "atrMultiple50": 0.05,
+          "sma5": 120.83,
+          "sma20": 119.35,
+          "sma50": 119.9,
+          "sma5GapPct": -0.72,
+          "sma20GapPct": 0.52,
+          "sma50GapPct": 0.05,
+          "weightedRoc": 8.95,
+          "assetType": "주식 편입",
+          "holdingsUrl": "https://stockanalysis.com/etf/qqqe/holdings/",
+          "rsGroup": 73,
+          "rank": 5,
+          "rsUniverseCount": 15
+        },
+        {
+          "symbol": "SPY",
+          "asOf": "2026-09-28",
+          "historyDays": 310,
+          "price": 765.61,
+          "dailyPct": -0.74,
+          "weekPct": -1.02,
+          "monthPct": -0.24,
+          "threeMonthPct": 4.52,
+          "relative3mPct": 0,
+          "atr": 6.67,
+          "atrPct": 0.87,
+          "atrMultiple50": 0.79,
+          "sma5": 769.07,
+          "sma20": 763.93,
+          "sma50": 760.39,
+          "sma5GapPct": -0.45,
+          "sma20GapPct": 0.22,
+          "sma50GapPct": 0.69,
+          "weightedRoc": 7.14,
+          "assetType": "주식 편입",
+          "holdingsUrl": "https://stockanalysis.com/etf/spy/holdings/",
+          "rsGroup": 67,
+          "rank": 6,
+          "rsUniverseCount": 15
+        },
+        {
+          "symbol": "RSP",
+          "asOf": "2026-09-28",
+          "historyDays": 310,
+          "price": 209.74,
+          "dailyPct": -0.65,
+          "weekPct": -1.38,
+          "monthPct": -4.6,
+          "threeMonthPct": -0.58,
+          "relative3mPct": -4.88,
+          "atr": 1.83,
+          "atrPct": 0.87,
+          "atrMultiple50": -3.43,
+          "sma5": 211.04,
+          "sma20": 213.87,
+          "sma50": 216.22,
+          "sma5GapPct": -0.62,
+          "sma20GapPct": -1.93,
+          "sma50GapPct": -3,
+          "weightedRoc": 2.88,
+          "assetType": "주식 편입",
+          "holdingsUrl": "https://stockanalysis.com/etf/rsp/holdings/",
+          "rsGroup": 60,
+          "rank": 7,
+          "rsUniverseCount": 15
+        },
+        {
+          "symbol": "XLF",
+          "asOf": "2026-09-28",
+          "historyDays": 310,
+          "price": 54.19,
+          "dailyPct": -1.19,
+          "weekPct": -3.06,
+          "monthPct": -6.4,
+          "threeMonthPct": 1.74,
+          "relative3mPct": -2.66,
+          "atr": 0.72,
+          "atrPct": 1.33,
+          "atrMultiple50": -3.5,
+          "sma5": 54.58,
+          "sma20": 56.26,
+          "sma50": 56.83,
+          "sma5GapPct": -0.71,
+          "sma20GapPct": -3.68,
+          "sma50GapPct": -4.64,
+          "weightedRoc": 2.36,
+          "assetType": "주식 편입",
+          "holdingsUrl": "https://stockanalysis.com/etf/xlf/holdings/",
+          "rsGroup": 53,
+          "rank": 8,
+          "rsUniverseCount": 15
+        },
+        {
+          "symbol": "XLB",
+          "asOf": "2026-09-28",
+          "historyDays": 310,
+          "price": 49.47,
+          "dailyPct": -0.66,
+          "weekPct": -0.48,
+          "monthPct": -6.55,
+          "threeMonthPct": -4.13,
+          "relative3mPct": -8.28,
+          "atr": 0.74,
+          "atrPct": 1.5,
+          "atrMultiple50": -2.58,
+          "sma5": 49.95,
+          "sma20": 50.81,
+          "sma50": 51.47,
+          "sma5GapPct": -0.96,
+          "sma20GapPct": -2.64,
+          "sma50GapPct": -3.88,
+          "weightedRoc": -1.09,
+          "assetType": "주식 편입",
+          "holdingsUrl": "https://stockanalysis.com/etf/xlb/holdings/",
+          "rsGroup": 47,
+          "rank": 9,
+          "rsUniverseCount": 15
+        },
+        {
+          "symbol": "XLC",
+          "asOf": "2026-09-28",
+          "historyDays": 310,
+          "price": 111.18,
+          "dailyPct": -1.58,
+          "weekPct": -3.11,
+          "monthPct": -1.28,
+          "threeMonthPct": 5.65,
+          "relative3mPct": 1.08,
+          "atr": 1.85,
+          "atrPct": 1.67,
+          "atrMultiple50": 0.09,
+          "sma5": 112.84,
+          "sma20": 112.28,
+          "sma50": 111.02,
+          "sma5GapPct": -1.47,
+          "sma20GapPct": -0.98,
+          "sma50GapPct": 0.15,
+          "weightedRoc": -1.54,
+          "assetType": "주식 편입",
+          "holdingsUrl": "https://stockanalysis.com/etf/xlc/holdings/",
+          "rsGroup": 40,
+          "rank": 10,
+          "rsUniverseCount": 15
+        },
+        {
+          "symbol": "XLP",
+          "asOf": "2026-09-28",
+          "historyDays": 310,
+          "price": 82.28,
+          "dailyPct": 0.27,
+          "weekPct": 0.44,
+          "monthPct": -3.08,
+          "threeMonthPct": -1.33,
+          "relative3mPct": -5.6,
+          "atr": 0.96,
+          "atrPct": 1.16,
+          "atrMultiple50": -1.92,
+          "sma5": 82.24,
+          "sma20": 83.12,
+          "sma50": 84.16,
+          "sma5GapPct": 0.05,
+          "sma20GapPct": -1.01,
+          "sma50GapPct": -2.23,
+          "weightedRoc": -1.66,
+          "assetType": "주식 편입",
+          "holdingsUrl": "https://stockanalysis.com/etf/xlp/holdings/",
+          "rsGroup": 33,
+          "rank": 11,
+          "rsUniverseCount": 15
+        },
+        {
+          "symbol": "XLI",
+          "asOf": "2026-09-28",
+          "historyDays": 310,
+          "price": 168.78,
+          "dailyPct": -0.97,
+          "weekPct": -0.71,
+          "monthPct": -4.46,
+          "threeMonthPct": -8.09,
+          "relative3mPct": -12.06,
+          "atr": 2.3,
+          "atrPct": 1.36,
+          "atrMultiple50": -3.51,
+          "sma5": 169.68,
+          "sma20": 170.89,
+          "sma50": 177.28,
+          "sma5GapPct": -0.53,
+          "sma20GapPct": -1.23,
+          "sma50GapPct": -4.79,
+          "weightedRoc": -2.15,
+          "assetType": "주식 편입",
+          "holdingsUrl": "https://stockanalysis.com/etf/xli/holdings/",
+          "rsGroup": 27,
+          "rank": 12,
+          "rsUniverseCount": 15
+        },
+        {
+          "symbol": "XLRE",
+          "asOf": "2026-09-28",
+          "historyDays": 310,
+          "price": 41.35,
+          "dailyPct": -0.51,
+          "weekPct": -2.91,
+          "monthPct": -6.25,
+          "threeMonthPct": -6.49,
+          "relative3mPct": -10.53,
+          "atr": 0.51,
+          "atrPct": 1.24,
+          "atrMultiple50": -4.73,
+          "sma5": 41.78,
+          "sma20": 42.74,
+          "sma50": 43.92,
+          "sma5GapPct": -1.03,
+          "sma20GapPct": -3.24,
+          "sma50GapPct": -5.86,
+          "weightedRoc": -4.72,
+          "assetType": "주식 편입",
+          "holdingsUrl": "https://stockanalysis.com/etf/xlre/holdings/",
+          "rsGroup": 20,
+          "rank": 13,
+          "rsUniverseCount": 15
+        },
+        {
+          "symbol": "XLY",
+          "asOf": "2026-09-28",
+          "historyDays": 310,
+          "price": 109,
+          "dailyPct": -1.41,
+          "weekPct": -2.88,
+          "monthPct": -6.8,
+          "threeMonthPct": -3.63,
+          "relative3mPct": -7.8,
+          "atr": 1.6,
+          "atrPct": 1.47,
+          "atrMultiple50": -3.26,
+          "sma5": 110.57,
+          "sma20": 112.34,
+          "sma50": 114.47,
+          "sma5GapPct": -1.42,
+          "sma20GapPct": -2.97,
+          "sma50GapPct": -4.78,
+          "weightedRoc": -5.95,
+          "assetType": "주식 편입",
+          "holdingsUrl": "https://stockanalysis.com/etf/xly/holdings/",
+          "rsGroup": 13,
+          "rank": 14,
+          "rsUniverseCount": 15
+        },
+        {
+          "symbol": "XLU",
+          "asOf": "2026-09-28",
+          "historyDays": 310,
+          "price": 39.25,
+          "dailyPct": -0.66,
+          "weekPct": -3.47,
+          "monthPct": -7.47,
+          "threeMonthPct": -13.77,
+          "relative3mPct": -17.5,
+          "atr": 0.58,
+          "atrPct": 1.48,
+          "atrMultiple50": -5.7,
+          "sma5": 39.68,
+          "sma20": 41.34,
+          "sma50": 42.87,
+          "sma5GapPct": -1.08,
+          "sma20GapPct": -5.06,
+          "sma50GapPct": -8.44,
+          "weightedRoc": -12.63,
+          "assetType": "주식 편입",
+          "holdingsUrl": "https://stockanalysis.com/etf/xlu/holdings/",
+          "rsGroup": 7,
+          "rank": 15,
+          "rsUniverseCount": 15
+        }
+      ],
+      "theme": [
+        {
+          "symbol": "BWET",
+          "asOf": "2026-09-28",
+          "historyDays": 310,
+          "price": 730,
+          "dailyPct": 11,
+          "weekPct": -12.47,
+          "monthPct": 71.21,
+          "threeMonthPct": 386.67,
+          "relative3mPct": 365.61,
+          "atr": 78.76,
+          "atrPct": 10.79,
+          "atrMultiple50": 5.52,
+          "sma5": 698.67,
+          "sma20": 655.05,
+          "sma50": 457.57,
+          "sma5GapPct": 4.48,
+          "sma20GapPct": 11.44,
+          "sma50GapPct": 59.54,
+          "weightedRoc": 731.2,
+          "assetType": "자산·선물 노출",
+          "holdingsUrl": "https://stockanalysis.com/etf/bwet/holdings/",
+          "rsGroup": 99,
+          "rank": 1,
+          "rsUniverseCount": 19
+        },
+        {
+          "symbol": "ARKG",
+          "asOf": "2026-09-28",
+          "historyDays": 310,
+          "price": 53.35,
+          "dailyPct": -0.02,
+          "weekPct": 2.97,
+          "monthPct": 11.99,
+          "threeMonthPct": 33.01,
+          "relative3mPct": 27.25,
+          "atr": 1.85,
+          "atrPct": 3.46,
+          "atrMultiple50": 5.08,
+          "sma5": 52.81,
+          "sma20": 49.05,
+          "sma50": 45.38,
+          "sma5GapPct": 1.03,
+          "sma20GapPct": 8.76,
+          "sma50GapPct": 17.57,
+          "weightedRoc": 61.69,
+          "assetType": "주식 편입",
+          "holdingsUrl": "https://stockanalysis.com/etf/arkg/holdings/",
+          "rsGroup": 95,
+          "rank": 2,
+          "rsUniverseCount": 19
+        },
+        {
+          "symbol": "CIBR",
+          "asOf": "2026-09-28",
+          "historyDays": 310,
+          "price": 101.67,
+          "dailyPct": 0.71,
+          "weekPct": -1.37,
+          "monthPct": 3.16,
+          "threeMonthPct": 21.53,
+          "relative3mPct": 16.27,
+          "atr": 2.7,
+          "atrPct": 2.66,
+          "atrMultiple50": 2.09,
+          "sma5": 102.48,
+          "sma20": 98.76,
+          "sma50": 96.32,
+          "sma5GapPct": -0.79,
+          "sma20GapPct": 2.95,
+          "sma50GapPct": 5.55,
+          "weightedRoc": 33.9,
+          "assetType": "주식 편입",
+          "holdingsUrl": "https://stockanalysis.com/etf/cibr/holdings/",
+          "rsGroup": 89,
+          "rank": 3,
+          "rsUniverseCount": 19
+        },
+        {
+          "symbol": "AIS",
+          "asOf": "2026-09-28",
+          "historyDays": 310,
+          "price": 74.28,
+          "dailyPct": -2.19,
+          "weekPct": -0.83,
+          "monthPct": 9.53,
+          "threeMonthPct": -11.56,
+          "relative3mPct": -15.39,
+          "atr": 2.5,
+          "atrPct": 3.36,
+          "atrMultiple50": 2.16,
+          "sma5": 75.35,
+          "sma20": 70.98,
+          "sma50": 69.26,
+          "sma5GapPct": -1.42,
+          "sma20GapPct": 4.64,
+          "sma50GapPct": 7.24,
+          "weightedRoc": 32.55,
+          "assetType": "주식 편입",
+          "holdingsUrl": "https://stockanalysis.com/etf/ais/holdings/",
+          "rsGroup": 84,
+          "rank": 4,
+          "rsUniverseCount": 19
+        },
+        {
+          "symbol": "WCLD",
+          "asOf": "2026-09-28",
+          "historyDays": 310,
+          "price": 39.95,
+          "dailyPct": -0.82,
+          "weekPct": -3.22,
+          "monthPct": -6.94,
+          "threeMonthPct": 37.85,
+          "relative3mPct": 31.89,
+          "atr": 1.19,
+          "atrPct": 2.98,
+          "atrMultiple50": 0.76,
+          "sma5": 40.87,
+          "sma20": 40.74,
+          "sma50": 39.07,
+          "sma5GapPct": -2.25,
+          "sma20GapPct": -1.94,
+          "sma50GapPct": 2.26,
+          "weightedRoc": 28.89,
+          "assetType": "주식 편입",
+          "holdingsUrl": "https://stockanalysis.com/etf/wcld/holdings/",
+          "rsGroup": 79,
+          "rank": 5,
+          "rsUniverseCount": 19
+        },
+        {
+          "symbol": "SKYY",
+          "asOf": "2026-09-28",
+          "historyDays": 310,
+          "price": 162.46,
+          "dailyPct": -1.35,
+          "weekPct": -3.42,
+          "monthPct": -1.62,
+          "threeMonthPct": 28.41,
+          "relative3mPct": 22.85,
+          "atr": 3.65,
+          "atrPct": 2.25,
+          "atrMultiple50": 1.77,
+          "sma5": 165.8,
+          "sma20": 162.72,
+          "sma50": 156.24,
+          "sma5GapPct": -2.01,
+          "sma20GapPct": -0.16,
+          "sma50GapPct": 3.98,
+          "weightedRoc": 27.97,
+          "assetType": "주식 편입",
+          "holdingsUrl": "https://stockanalysis.com/etf/skyy/holdings/",
+          "rsGroup": 74,
+          "rank": 6,
+          "rsUniverseCount": 19
+        },
+        {
+          "symbol": "BOAT",
+          "asOf": "2026-09-28",
+          "historyDays": 310,
+          "price": 50.5,
+          "dailyPct": -0.82,
+          "weekPct": -5.16,
+          "monthPct": 3.1,
+          "threeMonthPct": 28.32,
+          "relative3mPct": 22.77,
+          "atr": 1.03,
+          "atrPct": 2.03,
+          "atrMultiple50": 2.82,
+          "sma5": 51.12,
+          "sma20": 51.24,
+          "sma50": 47.76,
+          "sma5GapPct": -1.22,
+          "sma20GapPct": -1.45,
+          "sma50GapPct": 5.74,
+          "weightedRoc": 27.64,
+          "assetType": "주식 편입",
+          "holdingsUrl": "https://stockanalysis.com/etf/boat/holdings/",
+          "rsGroup": 68,
+          "rank": 7,
+          "rsUniverseCount": 19
+        },
+        {
+          "symbol": "SMH",
+          "asOf": "2026-09-28",
+          "historyDays": 310,
+          "price": 600.01,
+          "dailyPct": -1.08,
+          "weekPct": 0.67,
+          "monthPct": 8.48,
+          "threeMonthPct": -5.79,
+          "relative3mPct": -9.87,
+          "atr": 16.08,
+          "atrPct": 2.68,
+          "atrMultiple50": 2.19,
+          "sma5": 603.19,
+          "sma20": 571.18,
+          "sma50": 566.76,
+          "sma5GapPct": -0.53,
+          "sma20GapPct": 5.05,
+          "sma50GapPct": 5.87,
+          "weightedRoc": 22.94,
+          "assetType": "주식 편입",
+          "holdingsUrl": "https://stockanalysis.com/etf/smh/holdings/",
+          "rsGroup": 63,
+          "rank": 8,
+          "rsUniverseCount": 19
+        },
+        {
+          "symbol": "IGV",
+          "asOf": "2026-09-28",
+          "historyDays": 310,
+          "price": 105.43,
+          "dailyPct": -0.55,
+          "weekPct": -1.59,
+          "monthPct": -3.72,
+          "threeMonthPct": 24.39,
+          "relative3mPct": 19,
+          "atr": 2.55,
+          "atrPct": 2.42,
+          "atrMultiple50": 1.54,
+          "sma5": 106.69,
+          "sma20": 105.31,
+          "sma50": 101.64,
+          "sma5GapPct": -1.18,
+          "sma20GapPct": 0.12,
+          "sma50GapPct": 3.73,
+          "weightedRoc": 18.28,
+          "assetType": "주식 편입",
+          "holdingsUrl": "https://stockanalysis.com/etf/igv/holdings/",
+          "rsGroup": 58,
+          "rank": 9,
+          "rsUniverseCount": 19
+        },
+        {
+          "symbol": "IBB",
+          "asOf": "2026-09-28",
+          "historyDays": 310,
+          "price": 210.71,
+          "dailyPct": 0.45,
+          "weekPct": 1.71,
+          "monthPct": 0.85,
+          "threeMonthPct": 14.73,
+          "relative3mPct": 9.76,
+          "atr": 3.95,
+          "atrPct": 1.88,
+          "atrMultiple50": 2.26,
+          "sma5": 209.43,
+          "sma20": 207.63,
+          "sma50": 202.14,
+          "sma5GapPct": 0.61,
+          "sma20GapPct": 1.48,
+          "sma50GapPct": 4.24,
+          "weightedRoc": 18.26,
+          "assetType": "주식 편입",
+          "holdingsUrl": "https://stockanalysis.com/etf/ibb/holdings/",
+          "rsGroup": 53,
+          "rank": 10,
+          "rsUniverseCount": 19
+        },
+        {
+          "symbol": "SEA",
+          "asOf": "2026-09-28",
+          "historyDays": 310,
+          "price": 20.06,
+          "dailyPct": 0.82,
+          "weekPct": -2.57,
+          "monthPct": 1.52,
+          "threeMonthPct": 20.36,
+          "relative3mPct": 15.15,
+          "atr": 0.31,
+          "atrPct": 1.53,
+          "atrMultiple50": 2.45,
+          "sma5": 19.92,
+          "sma20": 20.08,
+          "sma50": 19.34,
+          "sma5GapPct": 0.7,
+          "sma20GapPct": -0.12,
+          "sma50GapPct": 3.75,
+          "weightedRoc": 17.68,
+          "assetType": "주식 편입",
+          "holdingsUrl": "https://stockanalysis.com/etf/sea/holdings/",
+          "rsGroup": 47,
+          "rank": 11,
+          "rsUniverseCount": 19
+        },
+        {
+          "symbol": "IBIT",
+          "asOf": "2026-09-28",
+          "historyDays": 310,
+          "price": 47.21,
+          "dailyPct": -0.76,
+          "weekPct": -3.67,
+          "monthPct": 7.54,
+          "threeMonthPct": 40.84,
+          "relative3mPct": 34.75,
+          "atr": 1.36,
+          "atrPct": 2.88,
+          "atrMultiple50": 5.13,
+          "sma5": 47.86,
+          "sma20": 45.42,
+          "sma50": 41.13,
+          "sma5GapPct": -1.36,
+          "sma20GapPct": 3.94,
+          "sma50GapPct": 14.79,
+          "weightedRoc": 17.32,
+          "assetType": "자산·선물 노출",
+          "holdingsUrl": "https://stockanalysis.com/etf/ibit/holdings/",
+          "rsGroup": 42,
+          "rank": 12,
+          "rsUniverseCount": 19
+        },
+        {
+          "symbol": "AIQ",
+          "asOf": "2026-09-28",
+          "historyDays": 310,
+          "price": 64.71,
+          "dailyPct": -1.91,
+          "weekPct": -2.41,
+          "monthPct": 0.76,
+          "threeMonthPct": 0.83,
+          "relative3mPct": -3.54,
+          "atr": 1.11,
+          "atrPct": 1.71,
+          "atrMultiple50": 1.8,
+          "sma5": 65.87,
+          "sma20": 64.41,
+          "sma50": 62.77,
+          "sma5GapPct": -1.77,
+          "sma20GapPct": 0.47,
+          "sma50GapPct": 3.08,
+          "weightedRoc": 16.52,
+          "assetType": "주식 편입",
+          "holdingsUrl": "https://stockanalysis.com/etf/aiq/holdings/",
+          "rsGroup": 37,
+          "rank": 13,
+          "rsUniverseCount": 19
+        },
+        {
+          "symbol": "MEME",
+          "asOf": "2026-09-28",
+          "historyDays": 244,
+          "price": 8.46,
+          "dailyPct": -3.97,
+          "weekPct": -2.31,
+          "monthPct": 11.46,
+          "threeMonthPct": -7.94,
+          "relative3mPct": -11.93,
+          "atr": 0.35,
+          "atrPct": 4.17,
+          "atrMultiple50": 1.78,
+          "sma5": 8.7,
+          "sma20": 8.12,
+          "sma50": 7.88,
+          "sma5GapPct": -2.8,
+          "sma20GapPct": 4.14,
+          "sma50GapPct": 7.42,
+          "weightedRoc": 12.72,
+          "assetType": "주식 편입",
+          "holdingsUrl": "https://stockanalysis.com/etf/meme/holdings/",
+          "rsGroup": 32,
+          "rank": 14,
+          "rsUniverseCount": 19
+        },
+        {
+          "symbol": "GDX",
+          "asOf": "2026-09-28",
+          "historyDays": 310,
+          "price": 87.89,
+          "dailyPct": -5.36,
+          "weekPct": -6.93,
+          "monthPct": -11.8,
+          "threeMonthPct": 16.15,
+          "relative3mPct": 11.12,
+          "atr": 3.49,
+          "atrPct": 3.97,
+          "atrMultiple50": -0.68,
+          "sma5": 92.9,
+          "sma20": 95.7,
+          "sma50": 90.34,
+          "sma5GapPct": -5.39,
+          "sma20GapPct": -8.16,
+          "sma50GapPct": -2.72,
+          "weightedRoc": 6.76,
+          "assetType": "주식 편입",
+          "holdingsUrl": "https://stockanalysis.com/etf/gdx/holdings/",
+          "rsGroup": 26,
+          "rank": 15,
+          "rsUniverseCount": 19
+        },
+        {
+          "symbol": "UNG",
+          "asOf": "2026-09-28",
+          "historyDays": 310,
+          "price": 10.79,
+          "dailyPct": -3.05,
+          "weekPct": 5.17,
+          "monthPct": 4.45,
+          "threeMonthPct": -8.17,
+          "relative3mPct": -12.14,
+          "atr": 0.37,
+          "atrPct": 3.44,
+          "atrMultiple50": 1.42,
+          "sma5": 11.04,
+          "sma20": 10.56,
+          "sma50": 10.29,
+          "sma5GapPct": -2.26,
+          "sma20GapPct": 2.15,
+          "sma50GapPct": 4.88,
+          "weightedRoc": -2.48,
+          "assetType": "자산·선물 노출",
+          "holdingsUrl": "https://stockanalysis.com/etf/ung/holdings/",
+          "rsGroup": 21,
+          "rank": 16,
+          "rsUniverseCount": 19
+        },
+        {
+          "symbol": "UFO",
+          "asOf": "2026-09-28",
+          "historyDays": 310,
+          "price": 42.91,
+          "dailyPct": -1.47,
+          "weekPct": -2.85,
+          "monthPct": -2.43,
+          "threeMonthPct": -5.7,
+          "relative3mPct": -9.78,
+          "atr": 1,
+          "atrPct": 2.33,
+          "atrMultiple50": -1.73,
+          "sma5": 43.48,
+          "sma20": 43.37,
+          "sma50": 44.71,
+          "sma5GapPct": -1.31,
+          "sma20GapPct": -1.07,
+          "sma50GapPct": -4.03,
+          "weightedRoc": -3.94,
+          "assetType": "주식 편입",
+          "holdingsUrl": "https://stockanalysis.com/etf/ufo/holdings/",
+          "rsGroup": 16,
+          "rank": 17,
+          "rsUniverseCount": 19
+        },
+        {
+          "symbol": "LIT",
+          "asOf": "2026-09-28",
+          "historyDays": 310,
+          "price": 68.28,
+          "dailyPct": -1.07,
+          "weekPct": -3.6,
+          "monthPct": -10.24,
+          "threeMonthPct": -12.59,
+          "relative3mPct": -16.37,
+          "atr": 1.23,
+          "atrPct": 1.8,
+          "atrMultiple50": -3.01,
+          "sma5": 69.41,
+          "sma20": 71.7,
+          "sma50": 72.2,
+          "sma5GapPct": -1.62,
+          "sma20GapPct": -4.77,
+          "sma50GapPct": -5.43,
+          "weightedRoc": -7.5,
+          "assetType": "주식 편입",
+          "holdingsUrl": "https://stockanalysis.com/etf/lit/holdings/",
+          "rsGroup": 11,
+          "rank": 18,
+          "rsUniverseCount": 19
+        },
+        {
+          "symbol": "URA",
+          "asOf": "2026-09-28",
+          "historyDays": 310,
+          "price": 40.13,
+          "dailyPct": -1.91,
+          "weekPct": -6.63,
+          "monthPct": -11.94,
+          "threeMonthPct": -8.63,
+          "relative3mPct": -12.58,
+          "atr": 1.49,
+          "atrPct": 3.71,
+          "atrMultiple50": -1.96,
+          "sma5": 41.53,
+          "sma20": 43.43,
+          "sma50": 43.28,
+          "sma5GapPct": -3.36,
+          "sma20GapPct": -7.61,
+          "sma50GapPct": -7.28,
+          "weightedRoc": -12.59,
+          "assetType": "주식 편입",
+          "holdingsUrl": "https://stockanalysis.com/etf/ura/holdings/",
+          "rsGroup": 5,
+          "rank": 19,
+          "rsUniverseCount": 19
+        },
+        {
+          "symbol": "DRAM",
+          "asOf": "2026-09-28",
+          "historyDays": 123,
+          "price": 59.7,
+          "dailyPct": -3.57,
+          "weekPct": -3.05,
+          "monthPct": 6.93,
+          "threeMonthPct": -22.36,
+          "relative3mPct": -25.72,
+          "atr": 2.65,
+          "atrPct": 4.43,
+          "atrMultiple50": 1.47,
+          "sma5": 61.57,
+          "sma20": 58.81,
+          "sma50": 56.04,
+          "sma5GapPct": -3.04,
+          "sma20GapPct": 1.52,
+          "sma50GapPct": 6.54,
+          "weightedRoc": null,
+          "assetType": "주식·스왑 혼합",
+          "holdingsUrl": "https://stockanalysis.com/etf/dram/holdings/",
+          "rsGroup": null,
+          "rank": null,
+          "rsUniverseCount": 19
+        }
+      ]
+    }
+  },
+  "etfGeneratedAt": "2026-09-29T06:53:33.874Z"
 }
